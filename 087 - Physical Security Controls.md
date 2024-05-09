@@ -4,4 +4,214 @@
 - Channel people through a specific access point
 	- And keep out other things
 		- Allow People, prevent cards and trucks
-- 
+- Identify safety concerns
+	- And prevent injuries
+- Can be used to an extreme
+	- Concrete barriers / bollards
+	- Moats
+## Access control vestibules
+- All doors normally unlocked
+	- Opening one door causes other to lock
+- All doors normally locked
+	- Unlocking one door prevents others from being unlocked
+- One door open / other locked
+	- When one is open, the other cannot be unlocked
+- One at a time, controlled groups
+	- Managed control through an area
+## Alarms
+- Circuit-based
+	- Circuit is opened or closed
+		- Door
+		- Window
+		- Fence
+	- Useful on the perimeter
+- Motion detection
+	- Radio reflection or passive infrared
+	- Useful in areas not often in use
+- Duress (Panic Button)
+	- Triggered by a person
+	- The big red button
+## Signs
+- Clear and specific instructions
+	- Keep people away from restricted areas
+	- Consider visitors
+- Consider personal safety
+	- Fire exits
+	- Warning signs
+		- Chemicals
+		- Construction
+	- Medical resources
+- Informational
+	- In case of emergency, call this number
+## Video Surveillance
+- CCTV (Closed circuit television)
+	- Can replace physical guards
+- Camera features are important
+	- Motion recognition can alarm and alert when something moves
+	- Object detection can identify a license plate or person's face*
+- Often many different cameras
+	- Networked together and recorded over time
+## Industrial camouflage
+- Conceal an important facility in plain sight
+	- Blends in to the local environment
+- Protect a data center
+	- No business signs
+	- No visual clues
+	- Surround it with a water feature
+	- Install a guard gate
+	- Planters out front are bollards
+## Guards and access lists
+- Security guard
+	- Physical protection at the reception area of a facility
+	- Validates identification of existing employees
+	- Provides guest access
+- ID Badge
+	- Picture
+	- Name
+	- Etc...
+	- Must be worn at all times
+- Access list
+	- Physical list of names
+	- Enforced by security guard
+- Maintains a visitor log
+## Guards
+- Two-person integrity/control
+	- Minimize exposure to an attack
+	- No single person has access to a physical asset
+- Robot sentries
+	- Monitoring
+	- Rounds/Periodic checks
+	- An emerging technology
+## Biometrics
+- Biometric authentication
+	- Fingerprint
+	- Retina
+	- Voiceprint
+- Usually stores a mathematical representation of your biometric
+	- Your actual fingerprint isn't usually saved
+- Difficult to change
+	- You can change your password
+	- You can't change your fingerprint
+- Used in very specific situations
+	- Not foolproof
+## Door access controls
+- Conventional
+	- Lock and Key
+- Deadbolt
+	- Physical bolt
+- Electronic
+	- Keyless
+	- PIN
+- Token-based
+	- RFID badge
+	- Magnetic Swipe Card
+	- Key Fob
+- Biometric
+	- Hands
+	- Fingers
+	- Retina
+- Multi-factor
+	- Smart card And PIN
+## Cable locks
+- Temporary security
+	- Connect your hardware to something solid
+- Cable works almost anywhere
+	- Useful when mobile
+- Most devices have a standard connector
+	- Reinforced notch
+- Not designed for long-term protection
+	- Those cables are pretty thin
+## USB data blocker
+- Don't connect to unknown USB interfaces
+	- Even if you need a quick charge
+	- Prevent "Juice Jacking"
+- Use a USB data blocker
+	- Allow the voltage, reject the data
+- Use your power adapter
+	- Avoid the issue entirely
+## Proper lighting
+- More light means more security
+	- Attackers avoid the light
+	- Easier to see when lit
+	- Non IR cameras can see better
+- Specialized design
+	- Consider overall light levels
+	- Lighting angles may be important
+		- Facial recognition
+	- Avoid shadows and glare
+## Fencing
+- Build a perimeter
+	- Usually very obvious
+	- May not be what you're looking for
+- Transparent or opaque
+	- See through the fence (or not)
+- Robust
+	- Difficult to cut the fence
+- Prevent climbing
+	- Razor wire
+	- Build it high
+## Fire suppression
+- Electronics require unique responses to fire
+	- Water is generally a bad thing
+- Detection
+	- Smoke detector
+	- Flame detector
+	- Heat detector
+- Suppress with water
+	- Where appropriate
+- Suppress with chemicals
+	- Halon (No long manufactured)
+		- Destroys ozone
+	- Commonly replaced with:
+		- Dupont FM-200
+## Sensors
+- Motion detection
+	- Identify movement in an area
+- Noise detection
+	- Recognize an increase in sound
+- Proximity reader
+	- Commonly used with electronic door locks
+	- Combined with an access card
+- Moisture detection
+	- Useful to identify water leaks
+- Temperature
+	- Monitor changes over time
+## Drones
+- Quickly cover large areas
+	- More than just one building
+- More than physical security
+	- Site surveys
+	- Damage assessments
+- On-board sensors
+	- Motion detection
+	- Thermal sensors
+- Video evidence
+	- High resolution video capture
+## Faraday cage
+- Blocks electromagnetic fields
+	- Discovered by Michael Faraday in 1836
+- A mesh conductive material
+	- The cage cancels the electromagnetic field's effect on the interior
+		- The windows of a microwave over
+- Not a comprehensive solution
+	- Not all signal types are blocked
+	- Some signal types a not blocked at all
+- Can restrict access to mobile networks
+	- Some very specific contingencies would need to be in place for emergency calls
+## Screened subnet
+- Formerly known as a Demilitarized Zone (DMZ)
+	- An additional layer of security between the internet and you
+- Public access to public resources
+## Protected distribution
+- Protected Distribution System (PDS)
+	- A physically secure cabled network
+- Protect your cables and fibers
+	- All of the data flows through these conduits
+- Prevent cable and fiber taps
+	- Direct taps and inductive taps
+- Prevent cable and fiber cuts
+	- A physical denial of Service (DoS)
+- Hardened protected distribution system
+	- Sealed metal conduit
+	- Periodic visual inspection
+

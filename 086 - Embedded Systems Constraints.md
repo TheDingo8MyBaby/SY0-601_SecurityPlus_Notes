@@ -1,0 +1,44 @@
+## Embedded Systems
+- Not usually a fully capable computer
+	- Low Cost
+	- Purpose-built
+- Adds additional constraints
+	- May have limited or missing features
+	- Upgradability limitations
+	- Limits in communication options
+- An ongoing trade off
+	- Lose cost systems
+	- Unique managements challenges
+## Constraints
+- Power
+	- May not have access to a main power source
+	- Batteries may need to be replaced and maintained
+- Compute
+	- Low-power CPUs are limited in speed
+	- Cost and heat considerations
+- Network
+	- May not have the option for a wired link
+	- May be in the middle of a field
+	- Wireless is the limiting factor
+- Crypto
+	- Limited hardware options
+	- Difficult to change or modify cryptography features
+- Inability to patch
+	- Some IoT devices have no field-upgradable options
+	- Upgrade options may be limited or difficult to install
+- Authentication
+	- Security features are often an afterthought
+	- Limited Options:
+		- No multi-factor
+		- Limited integration with existing directory services
+- Range
+	- Purpose-built
+		- Usually does one thing very well
+	- May not provide much additional functionality
+- Cost
+	- Single-purpose functionality comes at a low cost
+	- Low cost may affect product quality
+- Implied trust
+	- Limited access to the hardware and software
+	- Difficult to verify the security posture
+

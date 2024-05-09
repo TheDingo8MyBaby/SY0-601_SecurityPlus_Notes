@@ -1,0 +1,131 @@
+- Hardware and software designed for a specific function
+	- Or to operate as part of a larger system
+- Is built with only this task in mind
+	- Can be optimized for size and/or cost
+- Common examples
+	- Traffic light controllers
+	- Digital watches
+	- Medical imaging systems
+## SoC (System on a Chip)
+- Multiple components running on a single chip
+	- Common with embedded systems
+		- *Raspberry Pi*
+- Small form-factor
+	- External interface support
+	- Cache memory, flash memory
+	- Usually lower power consumption
+- Security considerations are important
+	- Difficult to upgrade hardware
+	- Limited off-the-shelf security options
+## Field-programmable gate array (FPGA)
+- An integrated circuit that can be configured after manufacturing
+	- Array of logic blocks
+	- Programmed in the field
+- A problem doesn't require a hardware replacement
+	- Reprogram the FPGA
+- Common in infrastructure
+	- Firewall logic
+	- Routers
+## SCADA / ICS
+- Supervisory Control and Data Acquisition System
+	- Large-scale, multi-site Industrial Control Systems (ICS)
+- PC manages equipment
+	- Power Generation
+	- Refining
+	- Manufacturing equipment
+		- Facilities
+		- Industrial
+		- Energy
+		- Logistics
+- Distributed control systems
+	- Real-time information
+	- System control
+- Requires extensive segmentation
+	- No access from the outside
+## Smart devices / IoT (Internet of Things)
+- Sensors
+	- Heating/Cooling
+	- Lighting
+- Smart devices
+	- Home automation
+	- Video doorbells
+- Wearable technology
+	- Watches
+	- Health monitors
+- Facility automation
+	- Temperature
+	- Air quality
+	- Lighting
+- Weak defaults
+	- IoT Manufacturers are not security professionals
+## Specialized
+- Medical devices
+	- Heart monitors
+	- Insulin Pumps
+	- Often use older operating systems
+- Vehicles
+	- Internal network is often accessible from mobile networks
+	- Control internal electronics
+- Aircraft
+	- DoS could damage the aircraft
+	- An outage would be problematic
+- Smart meters
+	- Measure power and water usage
+## VoIP
+- Voice over Internet Protocol
+	- Instead of analog phone line or the Plain Old Telephone Service (POTS)
+- A relatively complex embedded system
+	- Can be relatively important
+- Each device is a computer
+	- Separate boot process
+	- Individual configurations
+	- Different capabilities and functionalities
+## HVAC
+- Heating, Ventilation, and Air Conditioning
+	- Thermodynamics
+	- Fluid mechanics
+	- Heat transfer
+- A complex science
+	- Not something you can properly design yourself
+	- Must be integrated into the fire system
+- Pc manages equipment
+	- Makes cooling and heating decisions for workspaces and data centers
+- Traditionally not built with security in mind
+	- Difficult to recover from an infrastructure DoS
+## Drones
+- Flying vehicle
+	- No pilot on board
+- May be manually controlled from the ground
+	- Often with some autonomy
+	- Set it and forget it
+- Extensive commercial and non-commercial use
+	- May require federal licenses
+	- Security and fail-safes are required
+## Printers, scanners, and fax machines
+- All-in-one or multifunctional devices (MFD)
+	- Everything you need in one single device
+- No longer a simple printer
+	- Very sophisticated firmware
+- Some images are stored locally on the device
+	- Can be retrieved externally
+- Logs are stored on the device
+	- Contain communication and fax details
+## RTOS (Real-Time Operating System)
+- An operating system with a deterministic processing schedule
+	- No time to wait for other processes
+		- Industrial equipment
+		- Automobiles
+	- Military Environments
+- Extremely sensitive to security issues
+	- Non-trivial systems
+	- Need to always be available
+	- Difficult to know what type of security is in place
+## Surveillance systems
+- Video/audio surveillance
+	- Embedded systems in the cameras and the monitoring stations
+- Secure the security system
+	- Restrict access from others
+	- Prevent a denial of service
+- Physically difficult to replace cameras
+	- Accessible independently over the network
+	- May allow for firmware upgrades

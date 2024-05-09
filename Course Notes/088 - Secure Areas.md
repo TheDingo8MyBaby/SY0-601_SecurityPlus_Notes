@@ -1,7 +1,7 @@
 - Physically secure the data
 	- As important as the digital security
 - An important part of the security policy
-	- Not a question to leave unasnwered
+	- Not a question to leave unanswered
 - Secure active operations
 	- Prevent physical access to the systems
 - Secure offline data

@@ -31,9 +31,7 @@
 
 ## Code obfuscation
 
-![](Images/Pasted%20image%2020240417192634.png)#### Ran as PHP
-![](Images/Pasted%20image%2020240417192711.png)## Code reuse/dead code
-- Code reuse
+![](Images/Pasted%20image%2020240417192634.png)![](Images/Pasted%20image%2020240417192711.png)- Code reuse
 	- Use old code to build new applications
 		- *Copy and Paste*
 - If the old code has security vulnerabilities, reusing the code spreads it to other applications

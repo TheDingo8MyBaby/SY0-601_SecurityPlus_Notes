@@ -7,8 +7,7 @@
 	- Requires a redirection of the original request or the resulting response
 
 ## DNS spoofing / poisoning
-![](Images/Pasted%20image%2020231204225431.png)
-## Domain hijacking
+![](Images/Pasted%20image%2020231204225431.png)## Domain hijacking
 - Get access to the domain registration, and you have control where the traffic flows
 	- You don't need to touch the actual servers
 	- Determines the DNS names and DNS IP addresses

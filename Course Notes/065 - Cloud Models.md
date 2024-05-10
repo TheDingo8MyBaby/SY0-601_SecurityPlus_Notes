@@ -46,8 +46,7 @@
 	- Any IT function can be changed into a service
 
 ## Cloud model
-![](Images/Pasted%20image%2020240416181540.png)
-## Cloud service providers
+![](Images/Pasted%20image%2020240416181540.png)## Cloud service providers
 - Provide cloud services
 	- SaaS
 	- PaaS

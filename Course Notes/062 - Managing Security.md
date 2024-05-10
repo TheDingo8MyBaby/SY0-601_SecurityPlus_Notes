@@ -45,8 +45,7 @@
 	- If it's signed by a trusted CA, the encryption works seamlessly
 
 ## SSL/TLS proxy
-![](Images/Pasted%20image%2020240321204706.png)
-## Hashing
+![](Images/Pasted%20image%2020240321204706.png)## Hashing
 - Represent data as a short string of text
 	- A message digest
 - One-way trip

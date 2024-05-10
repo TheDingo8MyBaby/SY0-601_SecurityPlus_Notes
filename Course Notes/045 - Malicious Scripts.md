@@ -41,8 +41,7 @@
 - Starts with a shebang or hash-bang #!
 	- Often has a `.sh` file extension
 
-![](Images/Pasted%20image%2020240114190610.png)
-- Attack the Linux/Unix environment
+![](Images/Pasted%20image%2020240114190610.png)- Attack the Linux/Unix environment
 	- Web, database, virtualization servers
 - Control the OS from the command line
 	- Malware has a lot of options

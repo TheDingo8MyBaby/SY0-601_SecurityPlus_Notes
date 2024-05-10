@@ -1,6 +1,5 @@
 ## Cryptography without randomization
-![](Images/Pasted%20image%2020231204221817.png)
-## Cryptographic nonce
+![](Images/Pasted%20image%2020231204221817.png)## Cryptographic nonce
 - Arbitrary number
 	- Used once
 		- "For the nonce" -For the time being
@@ -15,8 +14,7 @@
 	- Used for randomizing an encryptin scheme
 	- The more random, the better
 - Used in encryption ciphers, WEP, and some SSL implementations
-![](Images/Pasted%20image%2020231204223501.png)
-## Salt
+![](Images/Pasted%20image%2020231204223501.png)## Salt
 - A nonce most commonly associated with password randomization
 	- Make the password hash unpredictable
 - Password storage should always be salted

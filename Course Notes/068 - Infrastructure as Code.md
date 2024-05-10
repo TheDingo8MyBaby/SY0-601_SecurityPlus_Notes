@@ -7,8 +7,7 @@
 - An important concept for cloud computing
 	- Build a perfect version every time
 
-![](Images/Pasted%20image%2020240416194149.png)
-## SDN (Software Defined Networking)
+![](Images/Pasted%20image%2020240416194149.png)## SDN (Software Defined Networking)
 - Networking devices have two functional planes of operation
 	- Control plane
 	- Data plane
@@ -26,8 +25,7 @@
 
 ## SDN Security
 
-![](Images/Pasted%20image%2020240416194500.png)
-## SDV (Software Defined Visibility)
+![](Images/Pasted%20image%2020240416194500.png)## SDV (Software Defined Visibility)
 - You must see the traffic to secure the data
 	- React and respond
 - Dynamic deployments include security and network visibility devices

@@ -9,15 +9,12 @@
 	- Security concerns, resource utilization, storage costs, managing the spam
 
 ## Phishing Spam
-![](Images/Pasted%20image%2020231127205012.png)
-## Unsolicited advertising spam
-![](Images/Pasted%20image%2020231127205033.png)
-## Mail gateways
+![](Images/Pasted%20image%2020231127205012.png)## Unsolicited advertising spam
+![](Images/Pasted%20image%2020231127205033.png)## Mail gateways
 - Unsolicited email
 	- Stop it at the gateway before it reaches the user
 	- On-site or cloud-based
-![](Images/Pasted%20image%2020231127205047.png)
-## Identifying spam
+![](Images/Pasted%20image%2020231127205047.png)## Identifying spam
 - Allowed list
 	- Only receive email from trusted senders
 - SMTP standards checking

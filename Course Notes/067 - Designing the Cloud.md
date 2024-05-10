@@ -26,8 +26,7 @@
 	- Adds overhead and complexity
 	- Virtualization is relatively expensive
 
-![](Images/Pasted%20image%2020240416183653.png)## Application containerization
-- Container
+![](Images/Pasted%20image%2020240416183653.png)- Container
 	- Contains everything you need to run an application
 		- ie: Docker
 	- Code and dependencies
@@ -40,10 +39,8 @@
 	- Lightweight, uses the host kernel
 	- Secure separation between applications
 
-![](Images/Pasted%20image%2020240416183826.png)## Virtualized vs. Containerized
-
-![](Images/Pasted%20image%2020240416183947.png)## Microservices and APIs
-- Monolithic applications
+![](Images/Pasted%20image%2020240416183826.png)
+![](Images/Pasted%20image%2020240416183947.png)- Monolithic applications
 	- One big application that does everything
 - Application contains all decision making processes
 	- User interface
@@ -53,8 +50,7 @@
 	- Large codebase
 	- Change control challenges
 
-![](Images/Pasted%20image%2020240416184141.png)## Microservices and APIs
-- APIs
+![](Images/Pasted%20image%2020240416184141.png)- APIs
 	- Application Programming Interfaces
 - API is the "Glue" for the microservices
 	- Work together to act as the application
@@ -65,8 +61,7 @@
 - Security and compliance
 	- Containment is built-in
 
-![](Images/Pasted%20image%2020240416193213.png)
-## Serverless architecture
+![](Images/Pasted%20image%2020240416193213.png)## Serverless architecture
 - Function as a Service (FaaS)
 	- Applications are separated into individual, autonomous functions
 	- Remove the operating system from the equation

@@ -33,12 +33,10 @@
 - MD5 has a collision problem
 	- Found in 1996
 	- Don't use MD5
-![](Images/Pasted%20image%2020240509194705.png)## Practical hashing
-- Verify a downloaded file
+![](Images/Pasted%20image%2020240509194705.png)- Verify a downloaded file
 	- Hashes may be provided on the download site
 	- Compare the downloaded file hash with the posted hash value
-![](Images/Pasted%20image%2020240509194806.png)- Password storage
-	- Instead of storing the password, store a salted hash
+![](Images/Pasted%20image%2020240509194806.png)	- Instead of storing the password, store a salted hash
 	- Compare hashes during the authentication process
 	- Nobody ever knows your actual password
 ## Adding some salt
@@ -53,8 +51,7 @@
 ## Salting the hash
 - Each user gets a different random hash
 	- The same password creates a different hash
-![](Images/Pasted%20image%2020240509195638.png)## Digital signatures
-- Prove the message was not changed
+![](Images/Pasted%20image%2020240509195638.png)- Prove the message was not changed
 	- Integrity
 - Prove the source of the message
 	- Authentication
@@ -66,5 +63,4 @@
 - Verify with the public key
 	- Any change in the message will invalidate the signature
 ## Creating a digital signature
-![](Images/Pasted%20image%2020240509195914.png)## Verifying a digital signature
-![](Images/Pasted%20image%2020240509200018.png)
+![](Images/Pasted%20image%2020240509195914.png)![](Images/Pasted%20image%2020240509200018.png)

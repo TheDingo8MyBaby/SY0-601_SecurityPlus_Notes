@@ -33,11 +33,13 @@
 - MD5 has a collision problem
 	- Found in 1996
 	- Don't use MD5
+
 ![[../Images/240509-1.png]]
 ## Practical hashing
 - Verify a downloaded file
 	- Hashes may be provided on the download site
 	- Compare the downloaded file hash with the posted hash value
+
 ![[../Images/240509-2.png]]
 - Password storage
 	- Instead of storing the password, store a salted hash
@@ -55,6 +57,7 @@
 ## Salting the hash
 - Each user gets a different random hash
 	- The same password creates a different hash
+
 ![[../Images/240509-3.png]]
 ## Digital signatures
 - Prove the message was not changed
@@ -69,7 +72,9 @@
 - Verify with the public key
 	- Any change in the message will invalidate the signature
 ## Creating a digital signature
+
 ![[../Images/240509-4.png]]
 ## Verifying a digital signature
+
 ![[../Images/240509-5.png]]
 

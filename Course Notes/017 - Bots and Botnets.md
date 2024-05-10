@@ -20,7 +20,9 @@
 - Botnets are for sale
 	- Rent time from the bad guys
 	- Not a long-term business proposition
-![](Images/Pasted%20image%2020231127211852.png)- Prevent the initial infection
+![](../Images/017%20-%20Bots%20and%20Botnets-1.png)
+## Stopping the bot
+- Prevent the initial infection
 	- OS and application patches
 	- Anti-virus/anti-malware and updated signatures
 - Identify an existing infection

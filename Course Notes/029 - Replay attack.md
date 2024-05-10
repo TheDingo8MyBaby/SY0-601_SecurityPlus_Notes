@@ -8,7 +8,10 @@
 	- The actual replay doesn't require the original workstation
 
 ## Pass the hash
-![](Images/Pasted%20image%2020231202031448.png)	- Use a session ID with the password hash to create a unique authentication hash each time
+![](../Images/029%20-%20Replay%20attack-1.png)
+![](../Images/029%20-%20Replay%20attack-2.png)
+- Avoid this type of replay attack with a salt or encryption
+	- Use a session ID with the password hash to create a unique authentication hash each time
 
 ## Browser cookies and session IDs
 - Cookies
@@ -22,7 +25,9 @@
 	- Maintains sessions across multiple browser sessions
 
 ## Session hijacking (Sidejacking)
-![](Images/Pasted%20image%2020231202031803.png)
+![](../Images/029%20-%20Replay%20attack-3.png)
+- This is why SSL / TLS is important
+
 ## Header manipulation
 - Information gathering
 	- Wireshark, Kismet

@@ -52,9 +52,15 @@
 
 ## EventLog Analyzer
 
-![](Images/Pasted%20image%2020240320201522.png)![](Images/Pasted%20image%2020240320201600.png)## Security Reports
+![](../Images/055%20-Security%20Information%20and%20Event%20Management-1.png)
 
-![](Images/Pasted%20image%2020240320201623.png)## Analyzing the data
+![](../Images/055%20-Security%20Information%20and%20Event%20Management-2.png)
+
+## Security Reports
+
+![](../Images/055%20-Security%20Information%20and%20Event%20Management-3.png)
+
+## Analyzing the data
 - Big data analytics
 	- Analyze large data stores
 	- Identify patterns that would normally remain invisible

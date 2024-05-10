@@ -42,4 +42,5 @@
 	- Focus the cooling
 	- Lower energy costs
 
-![](Images/Pasted%20image%2020240508221622.png)
+![[../Images/088 - Secure Areas-1.png]]
+

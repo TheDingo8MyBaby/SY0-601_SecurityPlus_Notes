@@ -48,4 +48,5 @@
 	- Long-term analysis can occur in the cloud
 		- Internet only when required
 
-![](Images/Pasted%20image%2020240416182945.png)
+![](../Images/066%20-%20Edge%20and%20Fog%20Computing-1.png)
+

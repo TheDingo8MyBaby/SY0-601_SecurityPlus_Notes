@@ -17,7 +17,9 @@
 				- Real users share the message
 					- Mass media picks up the story
 
-![](Images/Pasted%20image%2020231127204927.png)## Hybrid warfare
+![](../Images/008%20-%20Influence%20Campaigns-1.png)
+
+## Hybrid warfare
 - Military strategy
 	- A broud description of the techniques
 	- Wage ware non-traditionally

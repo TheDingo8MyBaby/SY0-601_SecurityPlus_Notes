@@ -18,7 +18,9 @@
 - Device diagrams
 	- Individual cabling
 
-![](Images/Pasted%20image%2020240320204337.png)## Baseline configuration
+![](../Images/059%20-%20Configuration%20Management-1.png)
+
+## Baseline configuration
 - The security of an application environment should be well defines
 	- All application instances must follow this baseline
 		- Firewall Settings

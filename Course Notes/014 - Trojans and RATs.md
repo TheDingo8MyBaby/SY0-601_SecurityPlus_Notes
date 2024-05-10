@@ -19,7 +19,9 @@
 - Browser search engine hijacker
 
 ## PUP infections
-![](Images/Pasted%20image%2020231127210207.png)## Backdoors
+![](../Images/014%20-%20Trojans%20and%20RATs-1.png)
+
+## Backdoors
 - Why go through normal authentication methods?
 	- Just walk in the back door
 - Often placed on your computer through malware
@@ -41,7 +43,9 @@
 	- Embed more malware
 
 ## DarkComet RAT
-![](Images/Pasted%20image%2020231127210545.png)## Protecting against Trojans and RATs
+![](../Images/014%20-%20Trojans%20and%20RATs-2.png)
+
+## Protecting against Trojans and RATs
 - Don't run unknown software
 	- Consider the consequences
 - Always have a backup

@@ -4,7 +4,9 @@
 	- Unique to a device
 - 48 bits / 6 bytes long
 	- Displayed in hexadecimal
-![](Images/Pasted%20image%2020231204224406.png)## LAN switching
+![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-1.png)
+
+## LAN switching
 - Forward or drop frames
 	- Based on the destination MAC address
 - Gather a constantly updating list of MAC addresses
@@ -18,8 +20,16 @@
 	- Makes a note of the **source** MAC address
 - Adds unknown MAC addresses to the MAC address table
 	- Sets the output interface to the received interface
-![](Images/Pasted%20image%2020231204224632.png)## Frame switching
-![](Images/Pasted%20image%2020231204224746.png)## MAC flooding
+![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-2.png)
+![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-3.png)
+![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-4.png)
+![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-5.png)
+![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-6.png)
+
+## Frame switching
+![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-7.png)
+
+## MAC flooding
 - The MAC table is only so big
 - Attacker starts sending traffic with different source MAC addresses
 	- Force out the legitimate MAC addresses

@@ -10,8 +10,12 @@
 - A hoax about a virus can waste as much time as a regular virus
 
 ## Email Hoax
-![](Images/Pasted%20image%2020231127205125.png)## Hoax in the browser
-![](Images/Pasted%20image%2020231127205144.png)## De-hoaxing
+![](../Images/005%20-%20Hoaxes-1.png)
+
+## Hoax in the browser
+![](../Images/005%20-%20Hoaxes-2.png)
+
+## De-hoaxing
 - It's the internet. Believe no one.
 	- Consider the source
 - Cross reference

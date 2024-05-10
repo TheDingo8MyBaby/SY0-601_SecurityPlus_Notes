@@ -7,7 +7,9 @@
 	- Something might happen between the check and the use
 
 ## Race condition example
-![](Images/Pasted%20image%2020231202165529.png)## Race conditions can cause big problems
+![](../Images/033%20-%20Race%20Conditions-1.png)
+
+## Race conditions can cause big problems
 - January 2004 - Mars rover "Spirit"
 	- Reboot when a problem is identified
 	- Problem is with the file system, so reboot because of the file system problem

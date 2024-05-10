@@ -33,7 +33,9 @@
 	- Usually a cryptographic token to prevent a forgery
 
 ## Cross-site request forgery (Example)
-![](Images/Pasted%20image%2020231202032901.png)## Server-side request forgery (SSRF)
+![](../Images/030%20-%20Request%20Forgeries-1.png)
+
+## Server-side request forgery (SSRF)
 - Attacker finds a vulnerable web application
 	- Sends requests to a web server
 	- Web server performs the request on behalf of the attacker
@@ -43,7 +45,9 @@
 	- These are rare, but can be critical vulnerabilities
 
 ## Server-side request forgery (SSRF) {Example}
-![](Images/Pasted%20image%2020231202033145.png)## Capital One SSRF breach - March 2019
+![](../Images/030%20-%20Request%20Forgeries-2.png)
+
+## Capital One SSRF breach - March 2019
 - Attacker is able to execute commands on the Capital One website
 	- This is normally stopped by a WAF (Web Application Firewall)
 	- The WAF was misconfigured

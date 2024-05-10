@@ -39,7 +39,11 @@
 	- A common example of protocol abuse
 
 ## Turning up the volume
-![](Images/Pasted%20image%2020240114185109.png)![](Images/Pasted%20image%2020240114185254.png)## Application DoS
+![](../Images/044%20-%20Denial%20of%20Service-1.png)
+
+![](../Images/044%20-%20Denial%20of%20Service-2.png)
+
+## Application DoS
 - Make the application break or work harder
 	- Increase downtime and costs
 - Fill the disk space

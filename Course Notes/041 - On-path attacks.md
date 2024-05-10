@@ -9,7 +9,10 @@
 	- ARP has no security
 
 ## ARP poisoning (spoofing)
-![](Images/Pasted%20image%2020231204223848.png)## On-path browser attack
+![](../Images/041%20-%20On-path%20attacks-1.png)
+![](../Images/041%20-%20On-path%20attacks-2.png)
+
+## On-path browser attack
 - What if the middleman was on the same computer as the victim?
 	- Malware/Trojan does all of the proxy work
 	- Formerly known as man-in-the-browser

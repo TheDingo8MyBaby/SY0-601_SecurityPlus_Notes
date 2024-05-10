@@ -6,7 +6,9 @@
 	- Begins to slowly grow in size
 	- Eventually uses all available memory
 	- System crashes
-![](Images/Pasted%20image%2020231202165952.png)## Memory vulnerabilities
+![](../Images/034%20-%20Other%20Application%20Attacks-1.png)
+
+## Memory vulnerabilities
 - NULL Pointer dereference
 	- Programming technique that references a portion of memory
 	- What happens if that reference points to nothing?
@@ -54,7 +56,9 @@
 - API - Application Programming Interface
 - Attackers look for vulnerabilities in this new communication path
 	- Exposing sensitive data, DoS, intercepted communication, privileged access
-![](Images/Pasted%20image%2020231202170752.png)## Resource exhaustion
+![](../Images/034%20-%20Other%20Application%20Attacks-2.png)
+
+## Resource exhaustion
 - A specialized DoS (Denial of Service) attack
 	- May only require one device and low bandwidths
 - ZIP Bomb

@@ -20,7 +20,13 @@
 	- Very sneaky
 
 ## WebGoat
-![](Images/Pasted%20image%2020231202025243.png)![](Images/Pasted%20image%2020231202025350.png)![](Images/Pasted%20image%2020231202025452.png)
+![](../Images/026%20-%20Cross-site%20scripting-1.png)
+- You would put a JavaScript at the end of the Credit Card Number field, to create a fake dialog box / alert
+![](../Images/026%20-%20Cross-site%20scripting-2.png)
+	- The Script will show Session Information / Cookie data / Etc...
+![](../Images/026%20-%20Cross-site%20scripting-3.png)
+- The data is then sent to to attacker
+
 ## Persistent (stored) XSS attack
 - Attacker posts a message to a social network
 	- Includes the malicious payload

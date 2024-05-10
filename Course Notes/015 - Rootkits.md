@@ -25,4 +25,4 @@
 	- Usually built after the rootkit is discovered
 - Secure boot with UEFI
 	- Security in the BIOS
-![](Images/Pasted%20image%2020231127211031.png)
+![](../Images/015%20-%20Rootkits-1.png)

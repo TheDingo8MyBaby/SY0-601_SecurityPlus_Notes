@@ -34,13 +34,13 @@
 	- Found in 1996
 	- Don't use MD5
 
-![[../Images/240509-1.png]]
+![](../Images/240509-13%201.png)
 ## Practical hashing
 - Verify a downloaded file
 	- Hashes may be provided on the download site
 	- Compare the downloaded file hash with the posted hash value
 
-![[../Images/240509-2.png]]
+![](../Images/240509-14%201.png)
 - Password storage
 	- Instead of storing the password, store a salted hash
 	- Compare hashes during the authentication process
@@ -58,7 +58,7 @@
 - Each user gets a different random hash
 	- The same password creates a different hash
 
-![[../Images/240509-3.png]]
+![](../Images/240509-15%201.png)
 ## Digital signatures
 - Prove the message was not changed
 	- Integrity
@@ -73,8 +73,8 @@
 	- Any change in the message will invalidate the signature
 ## Creating a digital signature
 
-![[../Images/240509-4.png]]
+![](../Images/240509-16%201.png)
 ## Verifying a digital signature
 
-![[../Images/240509-5.png]]
+![](../Images/240509-17%201.png)
 

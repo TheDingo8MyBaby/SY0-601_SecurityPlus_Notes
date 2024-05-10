@@ -1,4 +1,7 @@
-![](Images/README-1.jpg)# SY0-601 Security+ Notes:
+![](Images/README-1.jpg)
+
+# SY0-601 Security+ Notes:
+
 ### These are my personal notes that I have taken while working through to the:
 #### `Professor Messer - Securit+`   ||  Exam Prep & Training Course
 

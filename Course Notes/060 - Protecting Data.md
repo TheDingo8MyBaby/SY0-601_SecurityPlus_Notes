@@ -49,12 +49,10 @@
 	- The encrypted data is drastically different than the plaintext
 
 ![](Images/Pasted%20image%2020240320205716.png)
-
 ## Diffusion
 - Change one character of the input, and may characters change of the output
 
 ![](Images/Pasted%20image%2020240320205859.png)
-
 ## Data at-rest
 - The data is on a storage device
 	- Hard drive
@@ -108,7 +106,6 @@
 	- No encryption overhead
 
 ![](Images/Pasted%20image%2020240320211145.png)
-
 ## Information Rights Management (IRM)
 - Control how data is used
 	- Microsoft Office Documents

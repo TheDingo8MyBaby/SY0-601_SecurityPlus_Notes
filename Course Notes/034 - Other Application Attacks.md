@@ -7,7 +7,6 @@
 	- Eventually uses all available memory
 	- System crashes
 ![](Images/Pasted%20image%2020231202165952.png)
-
 ## Memory vulnerabilities
 - NULL Pointer dereference
 	- Programming technique that references a portion of memory
@@ -57,7 +56,6 @@
 - Attackers look for vulnerabilities in this new communication path
 	- Exposing sensitive data, DoS, intercepted communication, privileged access
 ![](Images/Pasted%20image%2020231202170752.png)
-
 ## Resource exhaustion
 - A specialized DoS (Denial of Service) attack
 	- May only require one device and low bandwidths

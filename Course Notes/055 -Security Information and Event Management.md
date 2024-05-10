@@ -53,13 +53,10 @@
 ## EventLog Analyzer
 
 ![](Images/Pasted%20image%2020240320201522.png)
-
 ![](Images/Pasted%20image%2020240320201600.png)
-
 ## Security Reports
 
 ![](Images/Pasted%20image%2020240320201623.png)
-
 ## Analyzing the data
 - Big data analytics
 	- Analyze large data stores

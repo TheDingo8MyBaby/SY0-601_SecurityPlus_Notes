@@ -49,4 +49,3 @@
 		- Internet only when required
 
 ![](Images/Pasted%20image%2020240416182945.png)
-

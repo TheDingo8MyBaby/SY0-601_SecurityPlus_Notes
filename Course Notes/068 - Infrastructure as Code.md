@@ -8,7 +8,6 @@
 	- Build a perfect version every time
 
 ![](Images/Pasted%20image%2020240416194149.png)
-
 ## SDN (Software Defined Networking)
 - Networking devices have two functional planes of operation
 	- Control plane
@@ -28,7 +27,6 @@
 ## SDN Security
 
 ![](Images/Pasted%20image%2020240416194500.png)
-
 ## SDV (Software Defined Visibility)
 - You must see the traffic to secure the data
 	- React and respond

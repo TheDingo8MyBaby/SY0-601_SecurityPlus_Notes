@@ -15,8 +15,7 @@
 - HVAC vendor was the supplier
 	- Attackers used a wide-open Target network to infect every cash register at 1,800 stores
 - Do these technicians look like an IT security issue?
-![](Images/Pasted%20image%2020231127221601.png)
-- Can you trust your new server/router/switch/firewall/software?
+![](Images/Pasted%20image%2020231127221601.png)- Can you trust your new server/router/switch/firewall/software?
 	- Supply chain cyber security
 - Use a small supplier base
 	- Tighter control of vendors

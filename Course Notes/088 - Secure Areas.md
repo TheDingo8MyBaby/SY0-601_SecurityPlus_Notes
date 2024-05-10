@@ -42,5 +42,4 @@
 	- Focus the cooling
 	- Lower energy costs
 
-![[../Images/Pasted image 20240508221622.png]]
-
+![](Images/Pasted%20image%2020240508221622.png)

@@ -39,9 +39,7 @@
 - NVD provides additional details over the CVE list
 	- Patch availability and severity scoring
 
-![](Images/Pasted%20image%2020240117233002.png)
-![](Images/Pasted%20image%2020240117233028.png)
-
+![](Images/Pasted%20image%2020240117233002.png)![](Images/Pasted%20image%2020240117233028.png)
 ## Public/private information-sharing centers
 - Public threat intelligence
 	- Often classified information

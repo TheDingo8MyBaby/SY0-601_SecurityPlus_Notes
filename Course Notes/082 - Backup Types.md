@@ -14,18 +14,15 @@
 	- These are usually smaller than the full backup
 - A restoration requires the full backup and all of the incremental backups
 
-![](Images/Pasted%20image%2020240501194539.png)
-## Differential backup
+![](Images/Pasted%20image%2020240501194539.png)## Differential backup
 - A full backup is taken first
 - Subsequent backups contain data changed since the last full backup
 	- These usually grow larger as data is changed
 - A restoration requires the full backup and the last differential backup
 
-![](Images/Pasted%20image%2020240501194728.png)
-## Backup types
+![](Images/Pasted%20image%2020240501194728.png)## Backup types
 
-![](Images/Pasted%20image%2020240501194809.png)
-## Backup media
+![](Images/Pasted%20image%2020240501194809.png)## Backup media
 - Magnetic tape
 	- Sequential storage
 	- 100GB to multiple terabytes per cartridge

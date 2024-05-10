@@ -11,10 +11,8 @@
 
 ## Email Hoax
 ![](Images/Pasted%20image%2020231127205125.png)
-
 ## Hoax in the browser
 ![](Images/Pasted%20image%2020231127205144.png)
-
 ## De-hoaxing
 - It's the internet. Believe no one.
 	- Consider the source

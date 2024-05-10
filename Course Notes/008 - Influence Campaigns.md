@@ -18,7 +18,6 @@
 					- Mass media picks up the story
 
 ![](Images/Pasted%20image%2020231127204927.png)
-
 ## Hybrid warfare
 - Military strategy
 	- A broud description of the techniques

@@ -20,7 +20,6 @@
 
 ## PUP infections
 ![](Images/Pasted%20image%2020231127210207.png)
-
 ## Backdoors
 - Why go through normal authentication methods?
 	- Just walk in the back door
@@ -44,7 +43,6 @@
 
 ## DarkComet RAT
 ![](Images/Pasted%20image%2020231127210545.png)
-
 ## Protecting against Trojans and RATs
 - Don't run unknown software
 	- Consider the consequences

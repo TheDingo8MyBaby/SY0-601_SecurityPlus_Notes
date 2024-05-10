@@ -1,11 +1,10 @@
-![](Images/sy0-601-training-course-title-600xo.jpg)
-# SY0-601 Security+ Notes:
+![](Images/sy0-601-training-course-title-600xo.jpg)# SY0-601 Security+ Notes:
 ### These are my personal notes that I have taken while working through to the:
 #### `Professor Messer - Securit+`   ||  Exam Prep & Training Course
 
 -----
 
-![[Images/Pasted image 20240509193257.png]]
+![](Images/Pasted%20image%2020240509193257.png)
 
 -----
 

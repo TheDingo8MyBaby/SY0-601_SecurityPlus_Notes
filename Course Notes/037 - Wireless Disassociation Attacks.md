@@ -18,10 +18,8 @@
 - Original wireless standards did not add protection for management frames
 	- Sent in the clear
 	- No authentication or validation
-![](Images/Pasted%20image%2020231202173742.png)
-- DeAuth example
+![](Images/Pasted%20image%2020231202173742.png)- DeAuth example
 ![](Images/Pasted%20image%2020231202173944.png)
-
 ## Protecting against deauth attacks
 - IEEE has already addressed the problem
 	- 802.11w - July 2014

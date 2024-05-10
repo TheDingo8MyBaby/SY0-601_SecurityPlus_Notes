@@ -11,8 +11,7 @@
 	- Works on SSL and TLS
 
 ## SSL and TLS
-![](Images/Pasted%20image%2020231202035818.png)
-- SSL (Secure Sockets Layer) 2.0
+![](Images/Pasted%20image%2020231202035818.png)- SSL (Secure Sockets Layer) 2.0
 	- Deprecated in 2011
 - SSL 3.0
 	- Vulnerable to the PODDLE attack
@@ -26,5 +25,4 @@
 	- The latest standars
 
 ## SSL stripping
-![](Images/Pasted%20image%2020231202040027.png)
-![](Images/Pasted%20image%2020231202040237.png)
+![](Images/Pasted%20image%2020231202040027.png)![](Images/Pasted%20image%2020231202040237.png)

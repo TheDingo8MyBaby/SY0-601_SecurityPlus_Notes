@@ -5,7 +5,6 @@
 - 48 bits / 6 bytes long
 	- Displayed in hexadecimal
 ![](Images/Pasted%20image%2020231204224406.png)
-
 ## LAN switching
 - Forward or drop frames
 	- Based on the destination MAC address
@@ -20,15 +19,9 @@
 	- Makes a note of the **source** MAC address
 - Adds unknown MAC addresses to the MAC address table
 	- Sets the output interface to the received interface
-![](Images/Pasted%20image%2020231204224632.png)
-![](Images/Pasted%20image%2020231204224641.png)
-![](Images/Pasted%20image%2020231204224658.png)
-![](Images/Pasted%20image%2020231204224710.png)
-![](Images/Pasted%20image%2020231204224717.png)
-
+![](Images/Pasted%20image%2020231204224632.png)![](Images/Pasted%20image%2020231204224641.png)![](Images/Pasted%20image%2020231204224658.png)![](Images/Pasted%20image%2020231204224710.png)![](Images/Pasted%20image%2020231204224717.png)
 ## Frame switching
 ![](Images/Pasted%20image%2020231204224746.png)
-
 ## MAC flooding
 - The MAC table is only so big
 - Attacker starts sending traffic with different source MAC addresses

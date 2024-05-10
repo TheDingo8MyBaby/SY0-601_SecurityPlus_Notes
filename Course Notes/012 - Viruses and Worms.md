@@ -46,4 +46,3 @@
 
 ## Wannacry worm
 ![](Images/Pasted%20image%2020231127204843.png)
-

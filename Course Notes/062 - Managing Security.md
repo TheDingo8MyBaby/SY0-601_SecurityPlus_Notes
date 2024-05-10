@@ -46,7 +46,6 @@
 
 ## SSL/TLS proxy
 ![](Images/Pasted%20image%2020240321204706.png)
-
 ## Hashing
 - Represent data as a short string of text
 	- A message digest

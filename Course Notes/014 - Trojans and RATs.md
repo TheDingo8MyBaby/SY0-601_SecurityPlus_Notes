@@ -19,7 +19,7 @@
 - Browser search engine hijacker
 
 ## PUP infections
-![](../Images/014%20-%20Trojans%20and%20RATs-1.png)
+![](../Images/240509-83.png)
 
 ## Backdoors
 - Why go through normal authentication methods?
@@ -43,7 +43,7 @@
 	- Embed more malware
 
 ## DarkComet RAT
-![](../Images/014%20-%20Trojans%20and%20RATs-2.png)
+![](../Images/240509-84.png)
 
 ## Protecting against Trojans and RATs
 - Don't run unknown software

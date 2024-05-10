@@ -26,9 +26,9 @@
 		- Collisions identified in 1996
 - December 2008: Researchers created CA certificate that appeared legitimate when MD5 is checked
 	- Built other certificates that appeared to be legit and issued by RapidSSL
-![](../Images/024%20-%20Cryptographic%20Attacks-1.png)
+![](../Images/240509-72.png)
 
-![](../Images/024%20-%20Cryptographic%20Attacks-2.png)
+![](../Images/240509-73.png)
 
 ## Downgrade attack
 - Instead of using perfectly good encryption, use something that's not so great

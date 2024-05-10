@@ -4,7 +4,7 @@
 	- Unique to a device
 - 48 bits / 6 bytes long
 	- Displayed in hexadecimal
-![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-1.png)
+![](../Images/240509-41.png)
 
 ## LAN switching
 - Forward or drop frames
@@ -20,14 +20,14 @@
 	- Makes a note of the **source** MAC address
 - Adds unknown MAC addresses to the MAC address table
 	- Sets the output interface to the received interface
-![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-2.png)
-![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-3.png)
-![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-4.png)
-![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-5.png)
-![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-6.png)
+![](../Images/240509-42.png)
+![](../Images/240509-43.png)
+![](../Images/240509-44.png)
+![](../Images/240509-45.png)
+![](../Images/240509-46.png)
 
 ## Frame switching
-![](../Images/042%20-%20MAC%20Flooding%20and%20Cloning-7.png)
+![](../Images/240509-47.png)
 
 ## MAC flooding
 - The MAC table is only so big

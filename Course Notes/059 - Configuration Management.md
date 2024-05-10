@@ -18,7 +18,7 @@
 - Device diagrams
 	- Individual cabling
 
-![](../Images/059%20-%20Configuration%20Management-1.png)
+![](../Images/240509-30.png)
 
 ## Baseline configuration
 - The security of an application environment should be well defines

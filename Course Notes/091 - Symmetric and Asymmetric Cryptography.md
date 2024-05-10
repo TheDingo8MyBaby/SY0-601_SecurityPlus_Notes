@@ -31,11 +31,11 @@
 - Everyone can have the public key
 	- Only Alice has the private key
 ## Asymmetric encryption
-![[../Images/091 - Symmetric and Asymmetric Cryptography-1.png]]
+![[../Images/240509-6.png]]
 ## Symmetric key from asymmetric keys
 - Use public and private key cryptography to create a symmetric key
 	- Math is powerful
-![[../Images/091 - Symmetric and Asymmetric Cryptography-2.png]]
+![[../Images/240509-7.png]]
 ## Elliptic curve cryptography (ECC)
 - Asymmetric encryption
 	- Need large integers composed of two or more large prime factors

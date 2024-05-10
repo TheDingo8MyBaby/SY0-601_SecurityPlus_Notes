@@ -7,7 +7,7 @@
 	- Something might happen between the check and the use
 
 ## Race condition example
-![](../Images/033%20-%20Race%20Conditions-1.png)
+![](../Images/240509-56.png)
 
 ## Race conditions can cause big problems
 - January 2004 - Mars rover "Spirit"

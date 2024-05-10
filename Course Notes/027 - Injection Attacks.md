@@ -14,9 +14,9 @@
 	- Your application shouldn't really allow this
 
 ## WebGoat - SQL Injection
-![](../Images/027%20-%20Injection%20Attacks-1.png)
+![](../Images/240509-67.png)
 - The field doesn't validate information within the Input Box
-![](../Images/027%20-%20Injection%20Attacks-2.png)
+![](../Images/240509-68.png)
 - `' OR '1'='1` Is a very common SQL Injection
 	- 3SL99A' OR '1'=1
 		- Means that if number or 1=1 is true, then show

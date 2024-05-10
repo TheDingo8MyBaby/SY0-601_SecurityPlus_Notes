@@ -33,7 +33,7 @@
 	- Usually a cryptographic token to prevent a forgery
 
 ## Cross-site request forgery (Example)
-![](../Images/030%20-%20Request%20Forgeries-1.png)
+![](../Images/240509-60.png)
 
 ## Server-side request forgery (SSRF)
 - Attacker finds a vulnerable web application
@@ -45,7 +45,7 @@
 	- These are rare, but can be critical vulnerabilities
 
 ## Server-side request forgery (SSRF) {Example}
-![](../Images/030%20-%20Request%20Forgeries-2.png)
+![](../Images/240509-61.png)
 
 ## Capital One SSRF breach - March 2019
 - Attacker is able to execute commands on the Capital One website

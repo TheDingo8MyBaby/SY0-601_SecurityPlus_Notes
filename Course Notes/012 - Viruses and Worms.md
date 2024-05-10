@@ -45,5 +45,5 @@
 	- Doesn't help much once the worm gets inside
 
 ## Wannacry worm
-![](../Images/012%20-%20Viruses%20and%20Worms-1.png)
+![](../Images/240509-87.png)
 

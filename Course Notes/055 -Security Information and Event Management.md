@@ -52,13 +52,13 @@
 
 ## EventLog Analyzer
 
-![](../Images/055%20-Security%20Information%20and%20Event%20Management-1.png)
+![](../Images/240509-31.png)
 
-![](../Images/055%20-Security%20Information%20and%20Event%20Management-2.png)
+![](../Images/240509-32.png)
 
 ## Security Reports
 
-![](../Images/055%20-Security%20Information%20and%20Event%20Management-3.png)
+![](../Images/240509-33.png)
 
 ## Analyzing the data
 - Big data analytics

@@ -48,12 +48,12 @@
 - Confusion
 	- The encrypted data is drastically different than the plaintext
 
-![](../Images/060%20-%20Protecting%20Data-1.png)
+![](../Images/240509-27.png)
 
 ## Diffusion
 - Change one character of the input, and may characters change of the output
 
-![](../Images/060%20-%20Protecting%20Data-2.png)
+![](../Images/240509-28.png)
 
 ## Data at-rest
 - The data is on a storage device
@@ -107,7 +107,7 @@
 	- The original data and token aren't mathematically related
 	- No encryption overhead
 
-![](../Images/060%20-%20Protecting%20Data-3.png)
+![](../Images/240509-29.png)
 
 ## Information Rights Management (IRM)
 - Control how data is used

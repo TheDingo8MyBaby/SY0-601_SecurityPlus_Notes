@@ -9,8 +9,8 @@
 	- ARP has no security
 
 ## ARP poisoning (spoofing)
-![](../Images/041%20-%20On-path%20attacks-1.png)
-![](../Images/041%20-%20On-path%20attacks-2.png)
+![](../Images/240509-48.png)
+![](../Images/240509-49.png)
 
 ## On-path browser attack
 - What if the middleman was on the same computer as the victim?

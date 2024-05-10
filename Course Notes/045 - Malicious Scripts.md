@@ -41,7 +41,7 @@
 - Starts with a shebang or hash-bang #!
 	- Often has a `.sh` file extension
 
-![](../Images/045%20-%20Malicious%20Scripts-1.png)
+![](../Images/240509-37.png)
 
 - Attack the Linux/Unix environment
 	- Web, database, virtualization servers

@@ -1,4 +1,4 @@
-![](Images/README-1.jpg)
+![](Images/240509-1.jpg)
 
 # SY0-601 Security+ Notes:
 
@@ -7,7 +7,7 @@
 
 -----
 
-![](Images/README-1.png)
+![](Images/240509-94.png)
 
 -----
 

@@ -7,7 +7,7 @@
 - An important concept for cloud computing
 	- Build a perfect version every time
 
-![](../Images/068%20-%20Infrastructure%20as%20Code-1.png)
+![](../Images/240509-17.png)
 
 ## SDN (Software Defined Networking)
 - Networking devices have two functional planes of operation
@@ -27,7 +27,7 @@
 
 ## SDN Security
 
-![](../Images/068%20-%20Infrastructure%20as%20Code-2.png)
+![](../Images/240509-18.png)
 
 ## SDV (Software Defined Visibility)
 - You must see the traffic to secure the data

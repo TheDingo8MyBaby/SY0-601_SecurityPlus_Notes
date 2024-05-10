@@ -7,7 +7,7 @@
 	- Requires a redirection of the original request or the resulting response
 
 ## DNS spoofing / poisoning
-![](../Images/043%20-%20DNS%20Attack-1.png)
+![](../Images/240509-40.png)
 
 ## Domain hijacking
 - Get access to the domain registration, and you have control where the traffic flows

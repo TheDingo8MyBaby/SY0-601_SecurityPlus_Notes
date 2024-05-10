@@ -26,7 +26,7 @@
 	- Adds overhead and complexity
 	- Virtualization is relatively expensive
 
-![](../Images/067%20-%20Designing%20the%20Cloud-1.png)
+![](../Images/240509-19.png)
 ## Application containerization
 - Container
 	- Contains everything you need to run an application
@@ -41,10 +41,10 @@
 	- Lightweight, uses the host kernel
 	- Secure separation between applications
 
-![](../Images/067%20-%20Designing%20the%20Cloud-2.png)
+![](../Images/240509-20.png)
 ## Virtualized vs. Containerized
 
-![](../Images/067%20-%20Designing%20the%20Cloud-3.png)
+![](../Images/240509-21.png)
 ## Microservices and APIs
 - Monolithic applications
 	- One big application that does everything
@@ -56,7 +56,7 @@
 	- Large codebase
 	- Change control challenges
 
-![](../Images/067%20-%20Designing%20the%20Cloud-4.png)
+![](../Images/240509-22.png)
 ## Microservices and APIs
 - APIs
 	- Application Programming Interfaces
@@ -69,7 +69,7 @@
 - Security and compliance
 	- Containment is built-in
 
-![](../Images/067%20-%20Designing%20the%20Cloud-5.png)
+![](../Images/240509-23.png)
 
 ## Serverless architecture
 - Function as a Service (FaaS)

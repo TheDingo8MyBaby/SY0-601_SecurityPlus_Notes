@@ -46,7 +46,7 @@
 	- Any IT function can be changed into a service
 
 ## Cloud model
-![](../Images/065%20-%20Cloud%20Models-1.png)
+![](../Images/240509-25.png)
 
 ## Cloud service providers
 - Provide cloud services

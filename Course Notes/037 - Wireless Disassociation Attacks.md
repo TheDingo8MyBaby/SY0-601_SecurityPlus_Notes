@@ -18,9 +18,9 @@
 - Original wireless standards did not add protection for management frames
 	- Sent in the clear
 	- No authentication or validation
-![](../Images/037%20-%20Wireless%20Disassociation%20Attacks-1.png)
+![](../Images/240509-52.png)
 - DeAuth example
-![](../Images/037%20-%20Wireless%20Disassociation%20Attacks-2.png)
+![](../Images/240509-53.png)
 
 ## Protecting against deauth attacks
 - IEEE has already addressed the problem

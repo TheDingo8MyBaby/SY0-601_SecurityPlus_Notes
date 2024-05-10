@@ -39,9 +39,9 @@
 	- A common example of protocol abuse
 
 ## Turning up the volume
-![](../Images/044%20-%20Denial%20of%20Service-1.png)
+![](../Images/240509-38.png)
 
-![](../Images/044%20-%20Denial%20of%20Service-2.png)
+![](../Images/240509-39.png)
 
 ## Application DoS
 - Make the application break or work harder

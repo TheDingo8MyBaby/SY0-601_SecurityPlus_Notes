@@ -31,9 +31,9 @@
 
 ## Code obfuscation
 
-![](../Images/072%20-%20Secure%20Coding%20Techniques-1.png)
+![](../Images/240509-15.png)
 #### Ran as PHP
-![](../Images/072%20-%20Secure%20Coding%20Techniques-2.png)
+![](../Images/240509-16.png)
 ## Code reuse/dead code
 - Code reuse
 	- Use old code to build new applications

@@ -14,17 +14,17 @@
 	- These are usually smaller than the full backup
 - A restoration requires the full backup and all of the incremental backups
 
-![](../Images/082%20-%20Backup%20Types-1.png)
+![](../Images/240509-9.png)
 ## Differential backup
 - A full backup is taken first
 - Subsequent backups contain data changed since the last full backup
 	- These usually grow larger as data is changed
 - A restoration requires the full backup and the last differential backup
 
-![](../Images/082%20-%20Backup%20Types-2.png)
+![](../Images/240509-10.png)
 ## Backup types
 
-![](../Images/082%20-%20Backup%20Types-3.png)
+![](../Images/240509-11.png)
 ## Backup media
 - Magnetic tape
 	- Sequential storage

@@ -2,7 +2,7 @@
 - Some servers are active
 	- Others are on standby
 - If an active server fails, the passive server takes its place
-![](../Images/079%20-%20Network%20Redundancy-1.png)
+![](../Images/240509-12.png)
 ## NIC teaming
 - Load Balancing / Fail Over (LBFO)
 	- Aggregate bandwidth
@@ -16,7 +16,7 @@
 	- Fails over when a NIC doesn't respond
 
 ## Port aggregation
-![](../Images/079%20-%20Network%20Redundancy-2.png)
+![](../Images/240509-13.png)
 ## Redundancy
-![](../Images/079%20-%20Network%20Redundancy-3.png)
+![](../Images/240509-14.png)
 

@@ -17,11 +17,11 @@
 				- Real users share the message
 					- Mass media picks up the story
 
-![](../Images/008%20-%20Influence%20Campaigns-1.png)
+![](../Images/240509-88.png)
 
 ## Hybrid warfare
 - Military strategy
-	- A broud description of the techniques
+	- A broad description of the techniques
 	- Wage ware non-traditionally
 - Not a new concept
 	- The internet adds new methods

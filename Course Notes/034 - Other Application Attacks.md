@@ -6,7 +6,7 @@
 	- Begins to slowly grow in size
 	- Eventually uses all available memory
 	- System crashes
-![](../Images/034%20-%20Other%20Application%20Attacks-1.png)
+![](../Images/240509-54.png)
 
 ## Memory vulnerabilities
 - NULL Pointer dereference
@@ -56,7 +56,7 @@
 - API - Application Programming Interface
 - Attackers look for vulnerabilities in this new communication path
 	- Exposing sensitive data, DoS, intercepted communication, privileged access
-![](../Images/034%20-%20Other%20Application%20Attacks-2.png)
+![](../Images/240509-55.png)
 
 ## Resource exhaustion
 - A specialized DoS (Denial of Service) attack

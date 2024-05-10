@@ -19,19 +19,19 @@
 ## A hashed example
 - SHA-256
 	- Used in many applications
-![](../Images/019%20-%20Password%20Attacks-13.png)
+![](../Images/240509-75.png)
 
 ## The password file
 - Different across operating systems and applications
 	- Different hash algorithms
-![](../Images/019%20-%20Password%20Attacks-14.png)
+![](../Images/240509-76.png)
 
 ## Spraying attack
 - Try to login with an incorrect password
 	- Eventually you're locked out
 - There are some common passwords
 	- https://en.wikipedia.org/wiki/List_of_the_most_commong_passwords
-![](../Images/019%20-%20Password%20Attacks-15.png)
+![](../Images/240509-77.png)
 - Attack an account with the top three (or more) passwords
 	- If they don't work, move to the next account
 	- No lockouts, no alarms, no alerts
@@ -40,7 +40,7 @@
 - Try every possible password combination until the a hash is matched
 - This might take some time
 	- A strong hasing algorithm slows things down
-![](../Images/019%20-%20Password%20Attacks-16.png)
+![](../Images/240509-78.png)
 - Brute force attacks - Online
 	- Keep trying the login process
 	- Very slow
@@ -49,7 +49,7 @@
 	- Obtain the list of users and hashes
 	- Calculate a password hash, compare it to a stored has
 	- Large computational resource requirement
-![](../Images/019%20-%20Password%20Attacks-17.png)
+![](../Images/240509-79.png)
 
 ## Dictionary attacks
 - Use a dictionary to find common words
@@ -91,7 +91,7 @@
 ## Salting the hash
 - Each user gets a different random hash
 	- The same password creates a different hash
-![](../Images/019%20-%20Password%20Attacks-18.png)
+![](../Images/240509-80.png)
 
 ## When the hashes get out
 - January 2019 - Collection #1

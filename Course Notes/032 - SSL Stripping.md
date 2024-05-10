@@ -11,7 +11,7 @@
 	- Works on SSL and TLS
 
 ## SSL and TLS
-![](../Images/032%20-%20SSL%20Stripping-1.png)
+![](../Images/240509-57.png)
 - SSL (Secure Sockets Layer) 2.0
 	- Deprecated in 2011
 - SSL 3.0
@@ -26,5 +26,5 @@
 	- The latest standars
 
 ## SSL stripping
-![](../Images/032%20-%20SSL%20Stripping-2.png)
-![](../Images/032%20-%20SSL%20Stripping-3.png)
+![](../Images/240509-58.png)
+![](../Images/240509-59.png)

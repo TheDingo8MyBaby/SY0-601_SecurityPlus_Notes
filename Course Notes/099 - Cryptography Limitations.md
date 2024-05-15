@@ -18,4 +18,31 @@
 	- Typical block ciphers don't increase the size of encrypted data
 	- AES block size is 128 bits/16 bytes
 	- Encrypting 8 bytes would potentially double the storage size
-## 
+- Weak keys
+	- Larger keys are generally more difficult to brute force
+	- The weak IV in RC4 resulted in the WEP security issues
+- Time
+	- Encryption and hashing takes time
+	- Larger files take longer
+	- Asymmetric is slower than symmetric
+## Limitations
+- Longevity
+	- A specific cryptographic technology can become less secure over time
+	- Smaller keys are easier to brute force
+		- Larger keys take longer to process
+	- Key retirement is a good best practice
+- Predictability and entropy
+	- Random numbers are critical for secure cryptography
+	- Hardware random number generators can be predictable
+	- A passphrase needs to be appropriately random
+- Key reuse
+	- Reusing the same key reduces complexity
+		- Less cost and effort to recertify keys
+		- Less administrative overhead
+	- If the key is compromised, everything using that key is at risk
+	- IoT devices often have keys embedded in the firmware
+- Resource vs. security constraints
+	- IoT devices have limited CPU, memory and power
+	- Real-time applications can't delay
+	- Difficult to maintain and update security components
+

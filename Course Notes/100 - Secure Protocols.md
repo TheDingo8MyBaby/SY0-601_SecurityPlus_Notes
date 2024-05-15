@@ -68,4 +68,73 @@
 	- They know directories!
 - DAP ran on the OSI protocol stack
 	- LDAP is lightweight, and uses TCP/IP
-- 
+- LDAP is the protocol used to query and update an X.500 directory
+	- Used in:
+		- Windows Active Directory
+		- Apple OpenDirectory
+		- OpenLDAP
+		- Etc...
+## Directory services
+- LDAP (Lightweight Directory Access Protocol)
+- LDAPS (LDAP Secure)
+	- A non-standard implementation of DAP over SSL
+- SASL (Simple Authentication and Security Layer)
+	- Provides authentication using many different methods
+		- IE:) Kerberos or client certificate
+## Remote access
+- SSH (Secure Shell)
+	- Encrypted terminal communication
+	- Replaces Telnet (and FTP)
+	- Provides secure terminal communication file transfer features
+## Domain name resolution
+- DNS had no security in the original design
+	- Relatively easy to poison a DNA
+- DNSEC
+	- Domain Name System Security Extensions
+- Validate DNS responses
+	- Origin authentication
+	- Data integrity
+- Public key cryptography
+	- DNS records are signed with a trusted third party
+	- Signed DNS records are published in DNS
+## Routing and switching
+- SSH - Secure Shell
+	- Encrypted terminal communication
+- SNMPv3 - Simple Network Management Protocol version 3
+	- Confidentiality
+		- Encrypted Data
+	- Integrity
+		- No tampering of data
+	- Authentication
+		- Verifies the source
+- HTTPS
+	- Browser-based management
+	- Encrypted communication
+## Network address allocation
+- Securing DHCP
+	- DHCP does not include any built-in security
+	- There is no "secure" version of the DHCP protocol
+- Rogue DHCP servers
+	- In Active Directory
+		- DHCP server must be authorized
+	- Some witches can be configured with "Trusted" interfaces
+	- DHCP distribution is only allowed form trusted interfaces
+	- Cisco calls this DHCP Snooping
+- DHCP client DoS - Starvation attack
+	- Use spoofed MAC addresses to exhaust the DHCP pool
+- Switches can be configured to limit the number of MAC addresses per interface
+	- Disable an interface when multiple MAC addresses are seen
+## Subscription services
+- Automated subscriptions
+	- Anti-virus / Anti-malware signature updates
+	- IPS updates
+	- Malicious IP address databases
+		- Firewall updates
+- Constant updates
+	- Each subscription uses a different update method
+- Check for encryption and integrity checks
+	- May require an additional public key configuration
+	- Set up a trust relationship
+		- Certificates
+		- IP Addresses
+

@@ -1,1 +1,24 @@
-PH
+- Minimize the attack surface
+	- Remove all possible entry points
+- Remove the potential for all known vulnerabilities
+	- As well as the unknown
+- Some hardening may have compliance mandates
+	- HIPAA Servers
+	- PCI DSS
+	- Etc...
+- There are many different resources
+	- Center for Internet Security (CIS)
+	- Network and Security Institute (SANS)
+	- National Institute of Standards and Technology (NIST)
+## Open ports and services
+- Every open port is a possible entry point
+	- Close everything except required ports
+- Control access with a firewall
+	- NGFW would be ideal
+- Unused or unknown services
+	- Installed with the OS or from other applications
+- Applications with broad port ranges
+	- Open port `0` through `65,535`
+- Use Nmap or similar port scanner to verify
+	- Ongoing monitoring is important
+## Registry

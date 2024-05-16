@@ -30,7 +30,7 @@
 	- Configure registry permissions
 	- Disable SMBv1
 ## The Windows registry
-![](../../240515-1.png)
+![](../Images/240515-1%202.png)
 ## Disk encryption
 - Prevent access to application data files
 	- File system encryption

@@ -22,3 +22,68 @@
 - Use Nmap or similar port scanner to verify
 	- Ongoing monitoring is important
 ## Registry
+- The primary configuration database for Windows
+	- Almost everything can be configured from the registry
+- Useful to know what an application modifies
+	- Many third-party tools can show registry changes
+- Some registry changes are important security settings
+	- Configure registry permissions
+	- Disable SMBv1
+## The Windows registry
+![](../../240515-1.png)
+## Disk encryption
+- Prevent access to application data files
+	- File system encryption
+- Full disk encryption (FDE)
+	- Encrypt everything on the drive
+		- BitLocker
+		- FileVault
+		- Etc...
+- Self-encrypting drive (SED)
+	- Hardware-based full disk encryption
+	- No operating system software needed
+- Opal storage specification
+	- The standard for the SED storage
+## Operating system hardening
+- Many and varied
+	- Windows
+	- Linux
+	- iOS
+	- Android
+	- Etc...
+- Updates
+	- Operating system updates
+		- Service packs
+	- Security patches
+- User accounts
+	- Minimum password lengths and complexity
+	- Account limitations
+- Network access and security
+	- Limit network access
+- Monitor and secure
+	- Anti-virus
+	- Anti-malware
+## Patch management
+- Incredibly important
+	- System stability
+	- Security fixes
+- Monthly updates
+	- Incremental (and important)
+- Third-party updates
+	- Application developers
+		- Device drivers
+- Auto-update
+	- Not always the best option
+- Emergency out-of-band updates
+	- Zero-day and important security discoveries
+## Sandboxing
+- Applications cannot access unrelated resources
+	- They play in their own sandbox
+- Commonly used during development
+	- Can be a useful production technique
+- Used in many different deployments
+	- Virtual machines
+	- Mobile devices
+	- Browser iframes (Inline Frames)
+	- Windows User Account Control (UAC)
+

@@ -1,0 +1,76 @@
+- The attack on our systems is constant
+	- Techniques are constantly changing
+- Attackers compromise a device
+	- And want it to stay compromised
+- The boot process is a perfect infection point
+	- Rootkits run in kernel mode
+	- Have the same rights as the operating system
+- Protecting the boot process is important
+		- Secure Boot
+		- Trusted boot
+		- Measured boot
+	- A chain of trust
+## Hardware root of trust
+- Security is based on trust
+	- Is your data safely encrypted?
+	- Is this web site legitimate?
+	- Has the operating system been infected?
+- The trust has to start somewhere
+		- Trusted Platform Module (TPM)
+		- Hardware Security Module (HSM)
+	- Designed to be the hardware root of trust
+- Difficult to change or avoid
+	- It's hardware
+	- Won't work without the hardware
+## Trusted Platform Module (TPM)
+- A specification for cryptographic functions
+	- Hardware to help with encryption functions
+- Cryptographic processor
+	- Random Number Generator
+	- Key Generators
+- Persistent memory
+	- Comes with unique keys
+		- Burned in during production
+- Versatile memory
+	- Storage keys
+	- Hardware configuration information
+- Password protected
+	- No dictionary attacks
+## UEFI BIOS Secure Boot
+- Secure Boot
+	- Part of the UEFI specification
+- UEFI BIOS protections
+	- BIOS includes the manufacturer's public key
+	- Digital signature is checked during a BIOS update
+	- BIOS prevents unauthorized writes to the flash
+- Secure Boot verifies the bootloader
+	- Checks the bootloader's digital signature
+	- Bootloader must be signed with a trusted certificate
+		- Or a manually approved digital signature
+## Trusted Boot
+- Bootloader verifies digital signature of the OS kernel
+	- A corrupted kernel will halt the boot process
+- The kernel verifies all of the other startup components
+	- Boot drivers
+	- Startup files
+- Just before loading the drivers, ELAM (Early Launch Anti-Malware) starts
+	- Checks every driver to see if it's trusted
+	- Windows won't load an untrusted driver
+## Measured Boot
+- Nothing on this computer has changed
+	- There have been no malware infections
+	- How do you know
+- Easy when it's just your computer
+	- More difficult when there are 1,000 machines
+- UEFI stores a hash of the:
+		- Firmware
+		- Boot drivers
+		- Everything else loaded during the Secure Boot
+			- Or Trusted Boot process
+	- Stored in the TPM
+- Remote attestation
+	- Device provides an operational report to a verification server
+	- Encrypted and digitally signed with the TPM
+- Attestation server receives the boot report
+	- Changes are identified and managed
+

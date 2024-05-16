@@ -1,0 +1,99 @@
+## The endpoint
+- The user's access
+	- Applications and data
+- Stop the attackers
+	- Inbound attacks
+	- Outbound attacks
+- Many different platforms
+	- Mobile
+	- Desktop
+	- Etc...
+- Protection is multi-faceted
+	- Defense in depth
+## Anti-virus and anti-malware
+- Anti-virus is the popular term
+	- Refers specifically to a type of malware
+		- Trojans
+		- Worms
+		- Macro Viruses
+- Malware refers to the broad malicious software category
+	- Anti-malware stops:
+		- Spyware
+		- Ransomware
+		- Fileless malware
+		- Etc...
+- The terms are effectively the same these days
+	- The names are more of a marketing tool
+	- Anti-virus software is also anti-malware software now
+	- Make sure your system is using a comprehensive solution
+## Endpoint detection and response (EDR)
+- A different method of threat protection
+	- Scale to meet the increasing number of threats
+- Detect a threat
+	- Signatures aren't the only detection tool
+		- Behavioral analysis
+		- Machine learning
+		- Process monitoring
+	- Lightweight agent on the endpoint
+- Investigate the threat
+	- Root cause analysis
+- Respond to the threat
+	- Isolate the system
+	- Quarantine the threat
+	- Rollback to a previous config
+		- API Driven
+		- No user or technician intervention required 
+## Data Loss Prevention (DLP)
+- Where's your data?
+	- Social Security Numbers
+	- Credit Card Numbers
+	- Medical Records
+- Stop the data before the attacker gets it
+	- Data "Leakage"
+- So many sources, so many destinations
+	- Often requires multiple solutions
+	- Endpoint clients
+	- Cloud-based systems
+		- Email
+		- Cloud Storage
+		- Collaboration tools
+## Next-generation firewall (NGFW)
+- The OSI Application Layer
+	- All data in every packet
+- Can be called different names
+	- Application layer gateway
+	- Stateful multilayer inspection
+	- Deep packet inspection
+- Broad security controls
+	- Allow or disallow application features
+	- Identify attacks and malware
+	- Examine encrypted data
+	- Prevent access to URLs or URL categories
+## Host-based firewall
+- Software-based firewall
+	- Personal firewall
+	- Runs on every endpoint
+- Allows or disallow incoming or outgoing application traffic
+	- Control by application process
+	- View all data
+- Identify and block unknown processes
+	- Stop malware before it can start
+- Manage centrally
+## Finding intrusions
+- Host-based Intrusion Detection System (HIDS)
+	- Uses log files to identify intrusions
+	- Can reconfigure firewalls to block
+- Host-based Intrusion Prevention System (HIPS)
+	- Recognize and block known attacks
+		- Secure OS and application configs
+		- Validate incoming Service requests
+	- Often built into endpoint protection software
+- HIPS identification
+			- Signatures
+			- Heuristics
+			- Behavioral
+		- Buffer overflows
+		- Registry Updates
+		- Writing files to the Windows Folder
+	- Access to non-encrypted data
+

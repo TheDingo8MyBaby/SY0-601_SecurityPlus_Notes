@@ -1,0 +1,57 @@
+## Edge vs. Access control
+- Control at the edge
+	- Your Internet link
+	- Managed primarily through firewall rules
+	- Firewall rules rarely change
+- Access Control
+	- Control from wherever you are
+		- Inside or Outside
+	- Access can be based on many rules
+		- User
+		- Group
+		- Location
+		- Application
+		- Etc...
+	- Access can be easily revoked or changed
+		- Change your security posture at any time
+## Posture assessment
+- You can't trust everyone's computer
+	- BYOD (Bring Your Own Device)
+	- Malware infections
+		- Missing anti-malware
+	- Unauthorized applications
+- Before connecting to the network, perform a health check
+	- Is it a trusted device?
+	- Is it running anti-virus?
+		- Which one?
+		- Is it updated?
+	- Are the corporate applications installed?
+	- Is it a mobile device?
+		- Is the disk encrypted?
+	- The type of device doesn't matter
+		- Windows
+		- Mac
+		- Linux
+		- iOS
+		- Android
+		- Etc...
+## Health checks / Posture assessment
+- Persistent agents
+	- Permanently installed onto a system
+	- Periodic updates may be required
+- Dissolvable agents
+	- No installation is required
+	- Runs during the posture assessment
+	- Terminates when no longer required
+- Agentless NAC
+	- Integrated with Active Directory
+	- Checks are made during login and logoff
+	- Can't be scheduled
+## Failing your assessment
+- What happens when a posture assessment fails?
+	- Too dangerous to allow access
+- Quarantine network, notify administrators
+	- Just enough network access to fix the issue
+- Once resolved, try again
+	- May require additional fixes
+

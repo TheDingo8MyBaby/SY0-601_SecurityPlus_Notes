@@ -1,0 +1,65 @@
+## Securing a wireless network
+- An organization's wireless network can contain confidential information
+	- Not everyone is allowed access
+- Authenticate the users before granting access
+	- Who gets access to the wireless network?
+		- Username
+		- Password
+		- Multi-factor Authentication
+- Ensure that all communication is confidential
+	- Encrypt the wireless data
+- Verify the integrity of all communication
+	- The received data should be identical to the original sent data
+	- A message integrity check (MIC)
+## Wireless encryption
+- All wireless computers are radio transmitters and receivers
+	- Anyone can listen in
+- Solution:  Encrypt the data
+	- Everyone has an encryption key
+- Only people with the right key can transmit and listen
+	- WPA2 and WPA3
+## WPA2 and CCMP
+- Wi-Fi Protected Access II (WPA2)
+	- WPA2 certification began in 2004
+- CCMP Block Cipher Mode
+	- Counter Mode with Cipher Block Chaining Message Authentication Code Protocol
+		- Or:  Counter/CBC-MAC Protocol
+- CCMP Security Services
+	- Data confidentiality with AES
+	- Message Integrity Check (MIC) with CBC-MAC
+## WPA3 and GCMP
+- Wi-Fi Protected Access 3 (WPA3)
+	- Introduced in 2018
+- GCMP Block Cipher Mode
+	- Galois/Counter Mode Protocol
+	- A stronger encryption than WPA2
+- GCMP Security Services
+	- Data confidentiality with AeS
+	- Message Integrity Check (MIC) with Galois Message Authentication Code (GMAC)
+## The WPA2 PSK problem
+- WPA2 has a PSK (Pre Shared Key) brute-force problem
+	- Listen to the four-way handshake
+		- Some methods can derive the PSK hash without the handshake
+	- Capture the hash
+- With the hash
+	- Attackers can brute force the pre-shared key (PSK)
+- This has become easier as technology improves
+	- A weak PSK is easier to brute force
+	- GPU processing speeds
+	- Cloud-based password cracking
+- Once you have the PSK, you have everyone's wireless key
+	- There's no forward secrecy
+## SAE
+- WPA3 changes the PSK Authentication Process
+	- Includes mutual authentication
+	- Creates a shared session key without sending that key across the network
+		- Nor more four-way handshakes
+		- No Hashes
+		- No brute force attacks
+	- Adds perfect forward secrecy
+- Simultaneous Authentication of Equals (SAE)
+	- A Diffie-Hellman derived key exchange with an authentication component
+	- Everyone uses a different session key
+		- Even with the same PSK
+	- An IEEE Standard
+		- The Dragonfly Handshake

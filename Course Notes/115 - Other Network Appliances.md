@@ -1,0 +1,46 @@
+## Jump server
+- Access secure network zones
+	- Provides an access mechanism to a protected network
+- Highly-secured device
+	- Hardened and monitored
+- SSH / Tunnel / VPN to the jump server
+	- RDP
+	- SSH
+	- Jump from there
+- A significant security concern
+	- A compromise to the jump server is a significant breach
+![](../Images/240522-1%2013.png)
+## Hardware Security Module (HSM)
+- Used in large environments
+	- Clusters
+	- Redundant power
+- High-end cryptographic hardware
+	- Plug-in card or separate hardware device
+- Key backup
+	- Secured storage
+- Cryptographic accelerators
+	- Offload that CPU overhead from other devices
+## Sensors and collectors
+- Aggregate information from network devices
+	- Built-in sensors
+	- Separate devices
+	- Integrated into:
+		- Switches
+		- Routers
+		- Servers
+		- Firewalls
+		- Etc...
+- Sensors
+	- Intrusion prevention systems
+	- Firewall logs
+	- Authentication logs
+	- Web server access logs
+	- Database transaction logs
+	- Email logs
+- Collectors
+	- Proprietary consoles
+		- IPS
+		- Firewall
+		- SIEM (Security, Information & Event Management) Consoles
+		- Syslog Servers
+	- Many SIEMs include a correlation engine to compare diverse sensor data

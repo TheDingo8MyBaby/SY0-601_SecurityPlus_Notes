@@ -1,1 +1,59 @@
-PH
+- Gain access to a wireless network
+	- Mobile users
+	- Temporary users
+- Credentials
+	- Shared password / Pre-shared Key (PSK)
+	- Centralized authentication (802.1X)
+- Configuration
+	- Part of the wireless network connection
+	- Prompted during the connection process
+## Wireless security modes
+- Configure the authentication on your wireless access point / wireless router
+- Open System
+	- No password is required
+- WPA3-Personal / WPA3-PSK
+	- WPA3 with a pre-shared key
+	- Everyone uses the same key
+	- Unique WPA3 session key is derived from the PSK using SAE
+		- (Simultaneous Authentication of Equals)
+- WPA3-Enterprise / WPA3-802.1X
+	- Authenticates users individually with an authentication server
+		- i.e:)  RADIUS
+## Captive portal
+- Authentication to a network
+	- Common on wireless networks
+- Username/Password
+	- And additional authentication factors
+- Once proper authentication is provided
+	- The web session continues
+		- Until the captive portal removes your access
+## Using WPS
+- Wi-Fi Protected Setup
+	- Originally called Wi-Fi Simple Config
+- Allow `"Easy"` setup of a mobile device
+	- A passphrase can be complicated to a novice
+- Different ways to connect
+	- PIN configured on access point must be entered on the mobile device
+	- Push a button on the access point
+	- Near-Field Communication
+		- Bring the mobile device close to the access point
+## The WPS hack
+- December 2011 - WPS has a design flaw
+	- It was built wrong from the beginning
+- PIN is an eight-digit number
+	- Really seven digits and a checksum
+	- Seven Digits
+		- 10,000,000 Possible Combinations
+- The WPS process validates each half of the PIN
+	- First half
+		- 4 Digits
+	- Second half
+		- 3 Digits
+	- First Half
+		- 10,000 Possibilities
+	- Second Half
+		- 1,000 Possibilities
+- It takes about four hours to go through all of them
+	- Most devices never considered a lockout function
+	- Brute force lockout features are now the norm
+

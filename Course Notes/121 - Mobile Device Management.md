@@ -80,3 +80,75 @@
 	- Receive notifications from one app when using a completely different app
 - Control of displayed notification can be managed from the MDM
 	- Or notifications can be pushed from the MDM
+## Passwords and PINs
+- The universal help desk call
+	- I need to reset my password
+- Mobile devices use multiple authentication methods
+	- Password/Passphrase
+	- PINs
+	- Patterns
+- Recovery process can be initiated from the MDM
+	- Password reset option is provided on the mobile device
+		- "What is the name of your favorite car?"
+- MDM also has full control
+	- Completely remove all security controls
+	- Not the default or best practice
+## Biometrics
+- You are the authentication factor
+	- Finprint
+	- Face
+- May not be the most secure authentication factor
+	- Useful in some enviornments
+	- Completely forbidden in others
+- Availability is managed through the MDM
+	- Organization determines the security of the device
+- Can be managed per-app
+	- Some apps require additional biometric authentication
+## Context-aware authentication
+- Who needs 2FA?
+	- The attackers can get around anything
+- Authentication can be contextual
+	- If it walks like a duck...
+- Combine multiple contexts
+	- Where you normally login
+		- IP Address
+	- Where you normally frequent
+		- GPS Information
+	- Other devices that may be paired
+		- Bluetooth
+		- Etc...
+	- And many others
+- An emerging technology
+	- Another way to keep data safe
+## Containerization
+- Difficult to separate person from business
+	- Especially when the device is BYOD
+	- Owned by the employee
+- Separate enterprise mobile apps and data
+	- Create a virtual "container" for company data
+	- A contained area
+		- limit data sharing
+	- Storage segmentation keeps data separate
+- Easy to manage offboarding
+	- Only the company information is deleted
+	- Personal data is retained
+	- Keep your:
+		- Pictures
+		- Video
+		- Music
+		- Email
+		- Etc...
+## Full device encryption
+- Scramble all of the data on the mobile device
+	- Even if you lose it, the contents are safe
+- Devices handle this in different ways
+	- Strongest
+	- Stronger
+	- Strong
+- Encryption isn't trivial
+	- Uses a lot of CPU cycles
+	- Complex integration between hardware and software
+- Don't lose or forget your password
+	- There's no recover
+	- Often backed up on the MDM
+

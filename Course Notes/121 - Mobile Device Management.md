@@ -59,3 +59,10 @@
 ## Geofencing
 - Some MDMs allow for geofencing
 	- Restrict or allow features when the device is in a particular area
+- Cameras
+	- The camera might only work when outside the office
+- Authentication
+	- Only allow logins when the device is located in a particular area
+## Screen lock
+- All mobile devices can be locked
+	- Keep people out of your data

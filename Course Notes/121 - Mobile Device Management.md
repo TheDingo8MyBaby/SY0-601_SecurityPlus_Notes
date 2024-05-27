@@ -66,3 +66,17 @@
 ## Screen lock
 - All mobile devices can be locked
 	- Keep people out of your data
+- Simple passcode or strong passcode
+	- Numbers vs. Alphanumeric
+- Fail too many times?
+	- Erase the phone
+- Define a lockout policy
+	- Create aggressive lockout timers
+	- Completely lock the phone
+## Push notification services
+- Information appears on the mobile device screen
+	- The notification is "pushed" to your device
+- No user intervention
+	- Receive notifications from one app when using a completely different app
+- Control of displayed notification can be managed from the MDM
+	- Or notifications can be pushed from the MDM

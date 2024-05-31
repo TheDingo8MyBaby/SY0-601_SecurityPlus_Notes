@@ -1,0 +1,148 @@
+## Third-party app stores
+- Centralized app clearinghouses
+	- Apple App Store
+	- Google Play
+- Not all applications are secure
+	- Vulnerabilities
+	- Data leakage
+- Not all applications are appropriate for business use
+	- Games
+	- Instant messaging
+	- Etc...
+- MDM can allow or deny app store use
+## Rooting/Jailbreaking
+- Mobile devices are purpose-built systems
+	- You don't need access to the operating system
+- Gaining access
+	- Android
+		- Rooting
+	- Apple iOS
+		- Jailbreaking
+- Install custom firmware
+	- Replaces the existing operating system
+- Uncontrolled access
+	- Circumvent security features
+		- Sideload Apps without using an app store
+	- The MDM Becomes relatively useless
+## Carrier unlocking
+- Most phones are locked to a carrier
+	- You can't use an AT&T phone on Verizon
+	- Your contract with a carrier subsidizes the cost of the phone
+- You can unlock the phone
+	- If your carrier allows it
+	- A carrier lock may be illegal in your country
+- Security revolves around connectivity
+	- Moving to another carrier can circumvent the MDM
+	- Preventing a SIM unlock may not be possible on a personal device
+## Firmware OTA updates
+- The operating system of a mobile device is constantly changing
+	- Similar to a desktop computer
+- Updates are provided over the air (OTA)
+	- No cable required
+- Security patches or entire operating system updates
+	- Significant changes without connecting the device
+- This may not be a good thing
+	- The MDM can manage what OTA updates are allowed
+## Camera use
+- Cameras are controversial
+	- They're not always a good thing
+		- Corporate espionage
+		- Inappropriate use
+- Almost impossible to control on the device
+	- No good way to ensure the camera won't be used
+- Camera use can be controlled by the MDM
+	- Always disabled
+	- Enabled, except for certain locations
+		- Geo-fencing
+## SMS/MMS
+- Short Message Service / Multimedia Messaging Service
+	- Text Messages
+	- Video
+	- Audio
+- Control of data can be a concern
+	- Outbound data leaks
+		- Financial disclosure
+	- Inbound notifications
+		- Phishing attempts
+- MDM can enable or disable SMS/MMS
+	- Or only allow during certain timeframes or locations
+## External media
+- Store data onto external or removable drives
+	- SD flash Memory or USB/Lighting drives
+- Transfer data from flash
+	- Connect to a computer to retrieve
+- This is very easy to do
+	- Limit data written to removable drives
+	- Or prevent the use of them from the MDM
+## USB OTG
+- USB On-The-Go
+	- Connect mobile devices directly together
+	- No computer required
+		- Only a cable
+- The mobile device can be both a host and a device
+	- Read from an external device
+		- Then act as a storage device itself
+	- No need for a third-party storage device
+- A USB 2.0 Standard
+	- Commonly seen on Android devices
+- Extremely convenient
+	- From a security perspective,
+		- It's too convenient
+## Recording microphone
+- Audio recordings
+	- There are microphones on every mobile device
+- Useful for meetings and not taking
+	- A standard for college classes
+- A legal liability
+	- Every state has different laws
+	- Every situation is different
+- Disable or Geo-fence
+	- Managed from the MDM
+## Geotagging / GPS tagging
+- Your phone knows where you are
+	- Location services
+	- GPS
+- Adds your location to document metadata
+	- Longitude / Latitude
+		- Photos
+		- Videos
+		- Etc...
+- Every document may contain geotagged information
+	- You can track a user quite easily
+- This may cause security concerns
+	- Take a picture
+		- Upload to social media
+## WiFi Direct/ad hoc
+- We're so used to access points
+	- SSID Configurations
+- The wireless standard an ad hoc mode
+	- Connect wireless devices directly
+	- Without an acces spoint
+- WiFi Direct simplifies the process
+	- Easily connect many devices together
+	- Common to see in home devices
+- Simplicity can aid vulnerabilities
+	- Invisible access to important devices
+## Hotspot / tethering
+- Turn your phone into a WiFi hotspot
+	- Your own personal wireless router
+	- Extend the cellular data network to all of your devices
+- Dependent on phone type and provider
+	- May require additional charges and data costs
+- May provide inadvertent access to an internal network
+	- Ensure proper security
+		- Passcode
+## Payment methods
+- Send small amounts of data wirelessly over a limited area (NFC)
+	- Built into your phone
+		- Payment systems
+		- Transportation
+		- In-Person information exchance
+- A few different standards
+	- Apply Pay
+	- Android Pay
+	- Samsung Pay
+- Bypassing primary authentication would allow payment
+	- Use proper security
+	- Or disable completely
+

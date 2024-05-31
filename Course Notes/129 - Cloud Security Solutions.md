@@ -1,0 +1,66 @@
+## Cloud access security broker (CASB)
+- Clients are at work, data is in the cloud
+	- How do you keep everything secure?
+	- The organization is already has well-defined security policies
+- How do you make your security policies work in the cloud?
+	- Integrate a CASB
+	- Implemented as;
+		- Client software
+		- Local security appliances
+		- Cloud-based security solutions
+- Visibility
+	- Determine what apps are in use
+	- Are they authorized to use the apps?
+- Compliance
+	- Are users complying with HIPAA? PCI?
+- Threat prevention
+	- Allow access by authorized users, prevent attacks
+- Data security
+	- Ensure that all data transfers are encrypted
+	- Protect the transfer of PII with DLP
+## Application security
+- Secure cloud-based applications
+	- Complexity increases in the cloud
+- Application misconfigurations
+	- One of the most common security issues
+	- Especially cloud storage
+- Authorization and access
+	- Controls should be strong enough for access from anywhere
+- API Security 
+	- Attackers will try to exploits interfaces and APIs
+## Next-Gen Secure Web Gateway
+- Protect users and devices
+	- Regardless of location and activity
+- Go beyond URLs and GET requests
+	- Examine the application API
+	- Dropbox for personal use or corporate use?
+- Examine JSON strings and API requests
+	- Allow or disallow certain activities
+- Instance-aware security
+	- A development instance is different than a production instance
+## Firewalls in the cloud
+- Control traffic flows in the cloud
+	- Inside the cloud and external flows
+- Cost
+	- Relatively inexpensive compare to appliances
+	- Virtual firewalls
+	- host-base firewalls
+- Segmentation
+	- Between Microservices, VMs, or VPCs
+- OSI layers
+	- Layer 4
+		- TCP/UDP
+	- Layer 7
+		- Application
+## Security controls
+- Cloud-native security controls
+	- Integrated and supported by the cloud provider
+	- Many configuration options
+	- Security is part of the infrastructure
+	- No additional costs
+- Third-Party solutions
+	- Support across multiple cloud providers
+	- Single pane of glass
+	- Extend policies outside the scope of the  cloud provider
+	- More extensive reporting
+

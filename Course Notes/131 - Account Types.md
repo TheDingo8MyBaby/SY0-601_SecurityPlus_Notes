@@ -1,0 +1,61 @@
+## User accounts
+- An account on a computer associated with a specific person
+	- The computer associates the user with a specific identification number
+- Storage and files can be private to that user
+	- Even if another person is using the same computer
+- No privileged access to the operating system
+	- Specifically not allowed on a user account
+- This is the account type most people will use
+	- Your user community
+## Shared and generic accounts
+- Shared account
+	- Used by more than one person
+		- Guest Login
+		- Anonymous Login
+- Very difficult to create an audit trail
+	- No way to know exactly who was working
+	- Difficult to determine the proper privileges
+- Password management becomes difficult
+	- Password changes require notifying everyone
+	- Difficult to remember so many password changes
+		- *Just write it down on this yellow sticky paper*
+- Best practice:
+	- Don't use these accounts
+## Guest accounts
+- Access to a computer for guests
+	- No access to change settings
+		- Modify applications
+		- View other user's files
+		- Etc...
+	- Usually no password
+- This bring significant security challenges
+	- Access to the userspace is one step closer to an exploit
+- Must be controlled
+	- Not the default
+	- Removed from Windows 10 build 10159
+## Service accounts
+- Used exclusively by services running on a computer
+	- No interactive / user access (Ideally)
+		- Web Server
+		- Database Server
+		- Etc...
+- Access can be defined for a specific service
+	- Web server rights and permissions will be different than a database server
+- Commonly use usernames and passwords
+	- You'll need to determine the best policy for password updates
+## Privileged accounts
+- Elevated access to one or more systems
+	- Administrator
+	- Root
+- Complete access to the system
+	- Often used to manage;
+		- Hardware
+		- Drivers
+		- Software installation
+- This account should not be used for normal administration
+	- User accounts should be used
+- Need to be highly secured
+	- Strong passwords
+	- 2FA
+	- Scheduled password changes
+

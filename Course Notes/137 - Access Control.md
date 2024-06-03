@@ -1,0 +1,105 @@
+- Authorization
+	- The process of ensuring only authorized rights are exercised
+		- Policy enforcement
+	- The process of determining rights
+		- Policy definition
+- Users receive rights based on Access Control models
+	- Different business needs or mission requirements
+## Mandatory Access Control (MAC)
+- The operating system limits the operation on an object
+	- Based on security clearance levels
+- Every object gets a label
+	- Confidential
+	- Secret
+	- Top Secret
+	- Etc...
+- Labeling of objects uses predefined rules
+	- The administrator decides who gets access to what security level
+	- Users cannot change these settings
+## Discretionary Access Control (DAC)
+- Used in most operating systems
+	- A familiar access control model
+- You create a spreadsheet
+	- As the owner, you control who has access
+		- You can modify access at any time
+- Very flexible access control
+	- And very weak security
+## Role-based access control (RBAC)
+- You have a role in your organization
+	- Manager
+	- Director
+	- Team lead
+	- Project manager
+- Administrators provide access based on the role of the user
+	- Rights are gained implicitly instead of explicitly
+- In Windows, use Groups to provide role-based access control
+	- You are in shipping and receiving, so you can use the shipping software
+	- You are the manager, so you can review shipping logs
+## Attribute-based access control (ABAC)
+- Users can have complex relationships to applications and data
+	- Access may be based on many different criteria
+- ABAC can consider many parameters
+	- A "Next generation" authorization model
+	- Aware of context
+- Combine and evaluate multiple parameters
+	- Resource information
+	- IP address
+	- Time of day
+	- Desired action
+	- Relationship to the data
+	- Etc...
+## Rule-based access control
+- Generic term for following rules
+	- Conditions other than who you are
+- Access is determined through system-enforce rules
+	- System administrators, not users
+- The rule is associate with the object
+	- System checks the ACLs for that object
+- Rule examples;
+	- "Lab network access is only available between 9AM and 5PM"
+	- "Only Chrome browsers may complete this web form"
+## File system security
+- Store files and access them
+		- Hard drive
+		- SSDs
+		- Flash Drives
+		- DVDs
+	- Part of most operating systems
+- Accessing information
+	- Access control list
+	- Group/User rights and permissions
+	- Can be centrally administered and/or users can manage files they own
+- Encryption can be built-in
+	- The file system handles encryption and decryption
+## Conditional access
+- Difficult to apply old methods of authentication to new methods of working
+	- Mobile workforce
+	- Manny different devices
+	- Constantly changing cloud
+- Conditions
+	- Employee or Partner
+	- Location
+	- Type of application accessed
+	- Device
+	- Etc...
+- Controls
+	- Allow or Block
+	- Require MFA
+	- Provide limited access
+	- Require password reset
+	- Etc...
+- Administrators can build complex access rules
+	- Complete control over data access
+## Privileged access management (PAM)
+- Managing superuser access
+	- Administrator and Root
+	- You don't want this in the wrong hands
+- Store privileged accounts in a digital vault
+	- Access is only granted from the vault by request
+	- These privileges are temporary
+- PAM advantages
+	- Centralized password management
+	- Enables automation
+	- Manage access for each user
+	- Extensive tracking and auditing
+

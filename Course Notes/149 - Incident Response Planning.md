@@ -1,0 +1,119 @@
+## Exercise
+- Test yourselves before an actual event
+	- Scheduled update sessions
+		- Annual
+		- Semi-annual
+		- Etc...
+- Use well-defined rules of engagement
+	- Do not touch the production systems
+- Very specific scenario
+	- Limited time to run the event
+- Evaluate response
+	- Document and discuss
+## Tabletop exercises
+- Performing a full-scale disaster drill can be costly
+	- And time consuming
+- Many of the logistics can be determined through analysis
+	- You don't physically have to go through a disaster or drill
+- Get key players together for a tabletop exercise
+	- Talk through a simulated disaster
+## Walkthrough
+- Include responders
+	- A step beyond a tabletop exercise
+	- Many moving parts
+- Test processes and procedures before an event
+	- Walk through each step
+	- Involve all groups
+	- Reference actual response materials
+- Identifies actual faults or missing steps
+	- The walkthrough applies the concepts from the tabletop exercise
+## Simulation
+- Test with a simulated event
+	- Phishing attack
+	- Password requests
+	- Data breaches
+- Going phishing
+	- Create a phishing email attack
+	- Send to your actual user community
+		- See who bites
+- Test internal security
+	- Did the phishing get past the filter?
+- Test the users
+	- Who clicked?
+	- Additional training may be required
+## Stakeholder management
+- Keeping a good ongoing relationship with customers of IT
+	- These can be internal or external customers
+	- An incident response will require teamwork
+	- Without the stakeholder, IT would not exist
+- Most of this happens prior to an incident
+	- Ongoing communication and meetings
+	- Exercises should include the customers
+- Continues after the incident
+	- Prepare for the next event
+## Communication plan
+- Get your contact list together
+	- There are a lot of people in the loop
+- Corporate / Organization
+	- CIO
+	- Head of Information Security
+	- Internal Response Teams
+- Internal non-IT
+	- Human resources
+	- Public affairs
+	- Legal department
+- External contacts
+	- System owner
+	- Law enforcement
+	- US-CERT (For U.S. Government agencies)
+## Disaster recovery plan
+- If a disaster happens, IT should be ready
+	- Part of business continuity planning
+	- Keep the organization up and running
+- Disaster are many and varied
+	- Natural disasters
+	- Technology or system failures
+	- Human-created disasters
+- A comprehensive plan
+	- Recovery location
+	- Data recovery method
+	- Application restoration
+	- IT team and employee availability
+## Continuity of operations planning (COOP)
+- Not everything goes according to plan
+	- Disasters can cause a disruption to the norm
+- We rely on our computer systems
+	- Technology is pervasive
+- There needs to be an alternative
+	- Manual transactions
+	- Paper receipts
+	- Phone calls for transaction approvals
+- These must be documented and tested before a problem occurs
+## Incident response team
+- Receives, review, and responds
+	- A predefined group of professionals
+- Determine what type of events requires a response
+	- Virus infection
+	- Ransomware
+	- DDoS
+- May or may not be part of the organizational structure
+	- Pulled together on an as-needed basis
+- Focuses on incident handling
+	- Incident response
+	- Incident analysis
+	- Incident reporting
+## Retention policies
+- Backup your data
+	- How much and where?
+		- Copies
+		- Versions of copies
+		- Lifecycle of data
+		- Purging old data
+- Regulatory compliance
+	- A certain amount of data backup may be required
+- Operational needs
+	- Accidental deletion
+	- Disaster recovery
+- Differentiate by type and application
+	- Recover the data you need when you need it
+

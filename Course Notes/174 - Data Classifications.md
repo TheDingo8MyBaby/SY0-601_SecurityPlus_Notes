@@ -1,0 +1,51 @@
+## Labeling sensitive data
+- Not all data has the same level of sensitivity
+	- License plate/tag numbers vs health records
+- Different levels require different security and handling
+	- Additional permissions
+	- A different process to view
+	- Restricted network access
+## Data classifications
+- Proprietary
+	- Data that is the property of an organization
+	- May also include trade secrets
+	- Often data unique to an organization
+- Personally Identifiable Information (PII)
+	- Data that can be used to identify an individual
+		- Name
+		- Date of Birth
+		- Mother's Maiden name
+		- Biometric Information
+- Protected Health Information (PHI)
+	- Health information associated with an individual
+		- health status
+		- Health care records
+		- Payments for health care
+		- Etc...
+## Data classification
+- Public / Unclassified
+	- No restrictions on viewing the data
+- Private / Classified / Restricted / Internal use only
+	- Restricted access, may require a non-disclosure agreement (NDA)
+- Sensitive
+	- Intellectual property
+	- PII
+	- PHI
+- Confidential
+	- Very sensitive
+	- Must be approved to view
+- Critical
+	- Data should always be available
+- Financial information
+	- Internal company financial information
+	- Customer financial details
+- Government data
+	- Open data
+	- Transfer between government entities
+	- May be protected by law
+- Customer data
+	- Data associated with customers
+	- May include user-specific details
+	- Legal handling requirements
+
+

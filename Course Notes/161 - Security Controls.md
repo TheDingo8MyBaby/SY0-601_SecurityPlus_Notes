@@ -1,0 +1,57 @@
+- Security risks are out there
+	- Many different types to consider
+- Assets are also varied
+	- Data
+	- Physical property
+	- Computer systems
+- Prevent security events
+	- Minimize the impact
+		- Limit the damage
+## Control categories 
+- Managerial controls
+	- Controls that address security design and implementation
+		- Security policies
+		- Standard operating procedures
+- Operational controls
+	- Controls that are implemented by people
+		- Security guards
+		- Awareness programs
+- Technical controls
+	- Controls implemented using systems
+		- Operating system controls
+			- Firewalls
+			- Anti-virus
+## Control types
+- Preventive
+	- Physically control access
+		- Door lock
+		- Security guard
+	- Firewall
+- Detective
+	- May not prevent access
+	- Identifies and records any intrusion attempt
+		- Motion detector
+	- IDS
+- Corrective
+	- Designed to mitigate damage
+	- IPS can block an attacker
+	- Backups can mitigate a ransomware infection
+	- A backup site can provide options when a storm hits
+- Deterrent
+	- May not directly prevent access
+	- Discourages an intrusion attempt
+		- Warning signs
+		- Login banner
+		- Lights
+		- Etc...
+- Compensating
+	- Doesn't prevent an attack
+	- Restores using other means
+	- Re-image or restore from backup
+	- Hot site
+	- Backup power system
+- Physical
+	- Fences
+	- Locks
+		- Real-world security
+

@@ -1,0 +1,69 @@
+## Risk assessment
+- Identify assets that could be affected by an attack
+	- Define the risk associated with each asset
+		- Hardware
+		- Customer data
+		- Intellectual property
+- Identify threats
+	- Loss of data
+	- Disruption of services
+	- Etc...
+- Determine the risk
+	- High
+	- Medium
+	- Low
+- Assess the total risk to the organization
+	- Make future security plans
+- External threats
+	- Outside the organization
+		- Hacker groups
+		- Former employees
+- Internal threats
+	- Employees
+	- Partners
+	- Disgruntled employees
+- Legacy systems
+	- Outdated / older technologies
+	- May not be supported by the manufacturer
+	- May not have security updates
+	- Depending on the age;
+		- May not be easily accessible
+## Multi-party risk
+- Breaches involving multiple parties
+	- Often trusted business relationships
+	- Events often involve many different parties
+- May 2019 - American Medical Collection Agency
+	- Provided debt collection for many different organizations
+	- Data breach disclosed personal information of 24 Million individuals
+	- Twenty-three healthcare organizations affected by this single breach
+	- A single breach can cause a ripple effect
+## Risk assessments
+- Intellectual Property (IP) theft
+	- Theft of;
+		- Ideas
+		- Inventions
+		- Creative expressions
+	- Caused by;
+		- Human error
+		- Hacking
+		- Employees with access
+		- Etc...
+	- Identify and protect IP
+	- Educate employees and increase security
+- Software compliance / licensing
+	- Operational risk with too few licenses
+	- Financial risk with budgeting
+		- And over-allocated licenses
+	- Legal risk if proper licensing is not followed
+## Risk management stategies
+- Acceptance
+	- A business decision
+		- We'll take the risk
+- Risk-avoidance
+	- Stop participating in a high-risk activity
+- Transference
+	- Buy some cybersecurity insurance
+- Mitigation
+	- Decrease the risk level
+	- Invest in security systems
+

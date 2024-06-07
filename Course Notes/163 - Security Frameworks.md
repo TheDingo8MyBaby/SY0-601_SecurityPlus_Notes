@@ -1,0 +1,99 @@
+- Secure your data.
+	- Where do you start?
+		- What are the best practices?
+	- If only there was a book
+- Often a complex problem
+	- Uniquie organizational requirements
+	- Compliance and regulatory requirements
+	- Many different processes and tools are available
+- Use a security framework
+	- Documented processes
+	- A guide for creating a security program
+	- Define tasks and prioritize projects
+## Center for Internet Security (CSI)
+- Critical Security Controls for Effective Cyber Defense
+	- CIS CSC
+- Improve cyber defenses
+	- Twenty key actions
+		- The critical security controls
+	- Categorized for different organizations sizes
+- Designed for implementation
+	- Written for IT professionals
+	- Includes practical and actionable tasks
+## NIST RMF
+- National Institute of Standards and Technology (NIST)
+	- Risk Management Framework (RMF)
+		- Mandatory for US federal agencies and organizations that handle federal data
+- Six step process
+	- Step 1
+		- Categorize
+			- Define the environment
+	- Step 2
+		- Select
+			- Pick appropriate controls
+	- Step 3
+		- Implement
+			- Define proper implementation
+	- Step 4
+		- Assess
+			- Determine if controls are working
+	- Step 5
+		- Authorize
+			- Make a decision to authorize a system
+	- Step 6
+		- Monitor
+			- Check for ongoing compliance
+![](../Images/240606-1%2016.png)
+## NIST CSF
+- National Institute of Standards and Technology (NIST)
+	- Cybersecurity Framework (CSF)
+		- A voluntary commercial framework
+- Framework Core
+	- Identify
+	- Protect
+	- Detect
+	- Respond
+	- Recover
+- Framework Implementation Tiers
+	- An organization's view of cybersecurity risk and processes to manage the risk
+- Framework Profile
+	- The alignment of standards, guidelines, and practices to the Framework Core
+![](../Images/240606-2%207.png)
+## ISO/IEC frameworks
+	- International Organization for Standardization
+	- International Electrotechnical Commission
+- ISO/IEC 27001
+	- Standard for an Information Security Management System (ISMS)
+- ISO/IEC 27002
+	- Code of practice for information security controls
+- ISO/IEC 27701
+	- Privacy Information Management Systems (PIMS)
+- ISO 31000
+	- International standards for risk management practices
+## SSAE SOC 2 Type I / II
+- The American Institute of Certified Public Accountants (AICPA)
+	- Auditing standard statement on Standards for Attestation Engagements number 18 (SSAE18)
+- SOC 2
+	- Trust Services Criteria (Security Controls)
+		- Firewalls
+		- Intrusion detection
+		- Multi-factor authentication
+- Type 1 Audit
+	- Tests controls in place at a particular point in time
+- Type 2 Audit
+	- Tests controls over a period of at least six consecutive months
+## Cloud Security Alliance (CSA)
+- Security in cloud computing
+	- Not-for-profit organization
+- Cloud Controls Matrix (CCM)
+	- Cloud-specific security controls
+	- Controls are mapped to;
+		- Standards
+		- Best practices
+		- Regulations
+- Enterprise Architecture
+	- Methodology and tools
+	- Assess internal IT groups and cloud providers
+	- Determine security capabilities
+	- Build a roadmap
+

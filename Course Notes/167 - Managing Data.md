@@ -1,0 +1,43 @@
+## Data governance
+	- Rules
+	- Processes
+	- Accountability
+		- Associated with an organizations data
+			- Data is used in the right way
+- Data steward
+	- Manages the governance processes
+	- Responsible for data;
+		- Accuracy
+		- Privacy
+		- Security
+	- Associates sensitivity labels to the data
+	- Ensures compliance with any applicable laws and standards
+- Formal rules for data
+	- Everyone must know and follow the processes
+## Data classification
+- Identify data types
+		- Personal
+		- Public
+		- Restricted
+		- Etc...
+	- Use and protect data efficiently
+- Associate governance controls to the classification levels
+	- How the data class should be managed
+- Data compliance
+	- Laws and regulations regarding certain types of data
+		- General Data Protection Regulation (GDPR)
+## Data retention
+- Keep files that change frequently for version control
+	- Files change often
+		- Keep at least a week, perhaps more
+- Recover from virus infection
+	- Infection may not be identified immediately
+		- May need to retain 30 days of backups
+- Often legal requirements for data retention
+	- Email storage may be required over years
+	- Some industries must legally store certain data types
+	- Different data types have different storage requirements
+		- Corporate tax information
+		- Customer PII
+		- Tape backup
+		- Etc...

@@ -1,0 +1,133 @@
+## Order of volatility
+- How long does data stick around?
+	- Some media is much more volatile than others
+	- Gather data in order from the most volatile to less volatile
+![](../Images/240606-1%2015.png)
+## Disk
+- Copy everything on a storage drive
+	- Hard Drive
+	- SSD
+	- Flash Drive
+- Drive image perparation
+	- Power down to prevent changes
+	- Remove storage drive
+- Connect to imaging device
+	- With write-protection
+- Forensic clone
+	- Bit-for-bit copy
+	- Preserve all data
+		- Event the "Deleted" data
+## Random-acces Memory (RAM)
+- A difficult target to capture
+	- Changes constantly
+	- Capturing data changes the data
+- Memory dump
+	- Grab everything in active RAM
+	- Many third-party tools
+- Important data
+	- Browsing history
+	- Clipboard information
+	- Encryption keys
+	- Command history
+## Swap/pagefile
+- used by different operating systems
+	- Slightly different usage in each
+- A place to store RAM when memory is depleted
+	- There's a lot more space on the storage drive
+		- Transfer pages of RAM to a storage drive
+- Can also contain portions of an application
+	- Page out portions that aren't in use
+- Contains data similar to a RAM dump
+	- Anything active on the system
+## Operating system
+- OS Files and data
+	- May have been modified
+- Core operating system
+	- Executable files and libraries
+	- Can be compared later to known-good files
+	- Usually captured with a drive image
+- Other OS data
+	- Logged in users
+	- Open ports
+	- Processes currently running
+	- Attached device list
+## Device
+- Mobile devices and tablets
+	- A more challenging forensics task
+- Capture data
+	- use an existing backup file
+	- Transfer image of USB
+- Data
+	- Phone calls
+	- Contact information
+	- Text message
+	- Email data
+	- Images
+	- Movies
+## Firmware
+- Extract the device firmware
+	- Rootkits and exploited hardware device
+	- A reprogrammed firmware or ROM
+- Specific to the platform
+	- Firmware implementations vary widely
+- Attack gains access to the device
+	- Maintains access through OS updates
+- Data discovery
+	- Exploit data
+	- Firmware functionality
+	- Real-time data
+## Snapshot
+- Generally associated with virtual machines (VMs)
+	- A point-in-time system image
+- Incremental between snapshots
+	- Original image is the full backup
+	- Each snapshot is incremented from the last
+	- Restoring requires the original and all snapshots
+- Contains all files and information about a VM
+	- Similar to a system image
+		- Operating system
+		- Applications
+		- User data
+		- Etc...
+## Cache
+- Store data for use later
+	- Often used to increase performance
+	- Many different caches
+		- CPU
+		- Disk
+		- Internet/Browser
+		- Etc...
+- Can contain specialized data
+	- CPU cache is very short-term instruction storage
+- Some data may never be used
+	- Erased after a specified timeframe or when the cache is full
+	- Browser caches are often long-lived
+- Data
+	- URL locations
+	- Browser page components
+		- Text
+		- Images
+## Network
+- Gather information about and from the network
+	- Network connections
+	- Packet captures
+- Inbound and outbound sessions
+	- OS and application traffic
+- Packet data
+	- Capture raw network data
+	- May include long-term packet captures
+- Third-party packet captures
+	- Firewalls
+	- IPS
+	- Etc...
+## Artifacts
+- Digital items left behind
+	- Every contact leave a trace
+	- May not be obvious to access
+- Artifact locations
+	- Log information
+	- Flash memory
+	- Prefetch cache files
+	- Recycle Bin
+	- Browser bookmarks and logins
+

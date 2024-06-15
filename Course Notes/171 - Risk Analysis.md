@@ -10,7 +10,7 @@
 	- Combines the likelihood of an event with the potential impact
 	- Assists with making strategic decisions
 ## Risk matrix / risk heat map
-![](SY0-601_SecurityPlus_Notes/Images/240606-1%2017.png)
+![](https://raw.githubusercontent.com/TheDingo8MyBaby/SY0-601_SecurityPlus_Notes/main/Images/240606-1%2017.png)
 ## Audit risk model
 - Inherent risk
 	- Impact + Likelihood

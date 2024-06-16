@@ -759,6 +759,3 @@ Answer: D
 Answer: C
 ```  
 </details>
-
------
-

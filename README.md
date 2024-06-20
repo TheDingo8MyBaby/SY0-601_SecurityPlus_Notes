@@ -1,5 +1,4 @@
-![](gTsyPNR.png)
-
+![](Images/gTsyPNR.png)
 # SY0-601 Security+ Notes:
 
 ### These are my personal notes that I have taken while working through to the:

@@ -1,4 +1,4 @@
-![[gTsyPNR.png]]
+![](gTsyPNR.png)
 
 # SY0-601 Security+ Notes:
 
